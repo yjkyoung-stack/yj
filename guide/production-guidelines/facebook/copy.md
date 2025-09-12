@@ -1,10 +1,10 @@
 # Copy
 
-As this platform runs based on user participation, we need copies that can encourage participation, sharing and action-taking among its users.
+As Facebook is based on user participation, develop copies that can encourage engagement, sharing and action-taking among its users.
 
 #### Hook
 
-* We recommend creating short yet detailed copies before the ‘...more’ caption appears.\
+* Short yet detailed copies before the ‘...more’ caption appears.\
   e.g., _Tap. Check. Relax.​_
 
 #### Body
