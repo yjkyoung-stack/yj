@@ -1,12 +1,12 @@
 # Image
 
-Since the aspect ratio of images varies depending on the number of images posted, carefully consider when you produce content.
+X uses different aspect ratios depending on where the image or video is displayed.
 
 ### Aspect Ratio
 
 To minimize loss of image, we recommend using images sized 1080×1080 px in a 1:1 ratio.
 
-* When posting multiple images, only the first image can have text and logo in it.
+* When posting multiple images, we recommend including text and logos only on the first image.
 * As the aspect ratio varies depending on the number of images posted, make sure to refer to the following table.
 
 | Number of images posted | Aspect Ratio of Displayed Image    |
@@ -22,7 +22,7 @@ To minimize loss of image, we recommend using images sized 1080×1080 px in a 1:
 
 ### Layout
 
-Uploaded images will be automatically shown in different aspect ratios according to each platform and exposure page. Make sure to produce content in consideration of the safe zone so as not to get cropped and follow the recommended aspect ratios for each platform.
+Ensure your content is designed with the safe zone in mind to prevent cropping, and follow the recommended aspect ratios for each platform.
 
 #### Single Image
 

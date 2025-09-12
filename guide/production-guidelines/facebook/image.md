@@ -6,7 +6,7 @@ Facebook uses different aspect ratios depending on where the image or video is d
 
 For best results, use the 4:5 portrait ratio (1080 x 1350 px) for feed posts, as it takes up more screen space and is supported across most sections.
 
-* When posting multiple images, only the first image can have text and logo in it.
+* When posting multiple images, we recommend including text and logos only on the first image.
 * As the aspect ratio varies depending on the number of images posted, make sure to refer to the following table.
 
 | Number of images posted | Aspect Ratio of Displayed Image  |

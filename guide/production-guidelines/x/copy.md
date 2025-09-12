@@ -1,16 +1,16 @@
 # Copy
 
-As X shows real-time reactions to trending issues, we need copies that are short and intuitive.
+As X shows real-time reactions to trending issues, we recommend copies that are short and intuitive.
 
 #### Hook
 
-* The hook should be elaborated so that the key message can be highlighted.\
+* Elaborate the hook to highlight the key message.\
   e.g., _Tap. Check. Relax.​_
 
 #### Body
 
-* The copies in the body should be intuitive and have a nice rhythm when read.
-* The body should elaborate key benefits in a detailed language to suggest what actions a reader should take.\
+* Copies should be intuitive and have a nice rhythm when read.
+* Elaborate key benefits in detail to suggest what actions a user should take.\
   예) _Instantly check all your Kia warranty and recall info, right on your phone._
 
 #### CTA
@@ -20,7 +20,7 @@ As X shows real-time reactions to trending issues, we need copies that are short
 
 #### Hashtag
 
-* Using between zero to two hashtags is recommended that are appropriate for the brand.
+* Recommend using zero to two brand-related hashtags.
 
 
 
