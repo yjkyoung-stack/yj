@@ -1,7 +1,7 @@
 # Common Resources
 
-We provide resources that are commonly used for editing content.\
-Download the resource files below to work on your localization.
+Below are the resources that are commonly used for editing content.\
+Download the files below and proceed to localize.
 
 
 
