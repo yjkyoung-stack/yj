@@ -38,13 +38,15 @@ An original image (1:1) is displayed in a 9:10 aspect ratio.
 
 <figure><img src="../../../.gitbook/assets/X-image-2&#x26;3.jpg" alt=""><figcaption></figcaption></figure>
 
-#### Four Images
-
 <figure><img src="../../../.gitbook/assets/ex-X-image-2&#x26;3.jpg" alt=""><figcaption></figcaption></figure>
+
+#### Four Images
 
 An original image (1:1) is displayed in a 16:9 aspect ratio.
 
 <figure><img src="../../../.gitbook/assets/X-image-4.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/ex-X-image-4.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 You can place text in all areas except for the margin and text is recommended to be left- or center-aligned.
