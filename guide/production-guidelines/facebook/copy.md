@@ -9,19 +9,18 @@ As Facebook is based on user participation, develop copies that can encourage en
 
 #### Body
 
-* This part should have bold, goal-oriented tones in them.
-* The body should elaborate key benefits in a detailed language to suggest what actions a reader should take.\
+* Expressed in a bold, goal-oriented tone.
+* Elaborate key benefits in detail to suggest what actions a user should take.\
   e.g., _Your Kia warranty and recall details, all in one handy app! Manage your vehicle smarter, right from your phone._
 
 #### CTA
 
-* We recommend inserting a clear, direct CTA copy in the last sentence.\
+* Recommend inserting a clear, direct CTA copy in the last sentence.\
   e.g., _Download now \[Insert App Store / Country Link]_
 
 #### Hashtag
 
-* We recommend minimizing the use of hashtags.
-* If necessary, you can use between zero to three hashtags that are appropriate for the brand.
+* Recommend minimizing the use of hashtags (up to three).
 
 
 
