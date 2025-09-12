@@ -31,11 +31,15 @@ It is displayed in its original aspect ratio (4:5).
 
 <figure><img src="../../../.gitbook/assets/FB-image-single.jpg" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../../.gitbook/assets/ex-FB-image-2&#x26;5.jpg" alt=""><figcaption></figcaption></figure>
+
 #### Two or Five Images
 
 An original image (4:5) is displayed in a 1:1 aspect ratio.
 
 <figure><img src="../../../.gitbook/assets/FB-image-2&#x26;5.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/ex-FB-image-2&#x26;5.jpg" alt=""><figcaption></figcaption></figure>
 
 #### Three or Four Images
 
@@ -46,6 +50,8 @@ An original image (4:5) is displayed in a 2:3 aspect ratio.
 {% hint style="info" %}
 You can place text in all areas except for the margin and text is recommended to be left- or center-aligned.
 {% endhint %}
+
+<figure><img src="../../../.gitbook/assets/ex-FB-image-3&#x26;4.jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 
