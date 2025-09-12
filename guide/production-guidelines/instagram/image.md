@@ -1,11 +1,10 @@
 # Image
 
-Since the aspect ratio of images varies depending on the menu, carefully consider which menu you are creating content for.
+Instagram uses different aspect ratios depending on where the image or video is displayed.
 
 ### Aspect Ratio&#x20;
 
-Given its mobile-oriented characteristics, we recommend using images sized 1080x1350 px in a 4:5 aspect ratio.\
-If you upload one image, it will be displayed in the following aspect ratios in respective menus.
+For best results, use the 4:5 portrait ratio (1080 x 1350 px) for feed posts, as it takes up more screen space and is supported across most sections.
 
 | Location of Display | Aspect Ratio of Displayed Image |
 | ------------------- | ------------------------------- |
@@ -19,7 +18,7 @@ If you upload one image, it will be displayed in the following aspect ratios in 
 
 ### Layout
 
-Uploaded images will be automatically shown in different aspect ratios according to each platform and exposure page. Make sure to produce content in consideration of the safe zone so as not to get cropped and follow the recommended aspect ratios for each platform.
+Ensure your content is designed with the safe zone in mind to prevent cropping, and follow the recommended aspect ratios for each platform.
 
 #### Default Display Aspect Ratios
 
