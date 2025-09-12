@@ -1,7 +1,7 @@
 # Kia Communication Style Guidelines
 
-Here we introduce Kia’s visual styles and the brand’s voice and tone for copies.\
-Download various design resources including the font, logo and colors for your content production.
+This section presents Kia's visual styles as well as the brand’s voice and tone for copywriting.\
+Download various design resources including the font, logo and colors.
 
 
 
