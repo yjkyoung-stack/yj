@@ -1,7 +1,7 @@
 # Operation Guidelines
 
-These guidelines contain the workflow and execution rules for operating Kia Ownership social media content.\
-Please refer to the procedures and operational principles before uploading posts.
+This document explains the workflow and execution procedures for operating Kia Ownership social media content.\
+Please refer to the operational principles before uploading posts.
 
 
 
