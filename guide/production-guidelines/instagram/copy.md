@@ -7,6 +7,8 @@ As Instagram is a visually-driven platform, develop concise copy that complement
 * Recommend creating short, clear copies that can draw attention before the ‘...more’ appears in the caption.\
   e.g., _Tap. Check. Relax.​_
 
+<figure><img src="../../../.gitbook/assets/IG-text-more.jpg" alt=""><figcaption></figcaption></figure>
+
 #### Body
 
 * Recommend creating copies that are aesthetic, inspiring yet intuitive.
