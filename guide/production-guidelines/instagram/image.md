@@ -26,6 +26,8 @@ An original image (4:5) is shown in the same aspect ratio in the Home feed while
 
 <figure><img src="../../../.gitbook/assets/IG-image-3;4.jpg" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../../.gitbook/assets/ex-IG-image-3;4 (1).jpg" alt=""><figcaption></figcaption></figure>
+
 #### In case you are considering exposure in Search feed
 
 An original image (4:5) is exposed in a 1:1 aspect ratio in the Search feed.
@@ -35,6 +37,8 @@ An original image (4:5) is exposed in a 1:1 aspect ratio in the Search feed.
 {% hint style="info" %}
 You can place text in all areas except for the margin and text is recommended to be left- or center-aligned.
 {% endhint %}
+
+<figure><img src="../../../.gitbook/assets/ex-IG-image-1;1.jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 
