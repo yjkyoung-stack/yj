@@ -21,7 +21,7 @@ Thumbnails will be shown in the following aspect ratios.
 
 #### 16:9 Video
 
-<figure><img src="../../../.gitbook/assets/FB-video-ratio-16;9.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/FB-video-ratio-16;9 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -49,11 +49,15 @@ An original image (9:16) is shown in a 4:5 ratio in the Feed.
 
 <figure><img src="../../../.gitbook/assets/FB-video-thumbnail-4;5.jpg" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../../.gitbook/assets/ex-FB-video-thumbnail-4;5.jpg" alt=""><figcaption></figcaption></figure>
+
 #### 16:9 Video
 
 It is shown in the same aspect ratio as that of the original image (16:9).
 
 <figure><img src="../../../.gitbook/assets/FB-video-thumbnail-16;9.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/ex-FB-video-thumbnail-16;9 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 You can place text in all areas except for the margin and text is recommended to be left- or center-aligned.

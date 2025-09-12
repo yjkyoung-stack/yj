@@ -30,6 +30,8 @@ It is displayed in its original aspect ratio (1:1).
 
 <figure><img src="../../../.gitbook/assets/X-image-single.jpg" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../../.gitbook/assets/ex-X-image-single.jpg" alt=""><figcaption></figcaption></figure>
+
 #### **Two or Three Images**
 
 An original image (1:1) is displayed in a 9:10 aspect ratio.
@@ -37,6 +39,8 @@ An original image (1:1) is displayed in a 9:10 aspect ratio.
 <figure><img src="../../../.gitbook/assets/X-image-2&#x26;3.jpg" alt=""><figcaption></figcaption></figure>
 
 #### Four Images
+
+<figure><img src="../../../.gitbook/assets/ex-X-image-2&#x26;3.jpg" alt=""><figcaption></figcaption></figure>
 
 An original image (1:1) is displayed in a 16:9 aspect ratio.
 
