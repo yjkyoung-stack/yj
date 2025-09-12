@@ -34,11 +34,11 @@ An original image (4:5) is exposed in a 1:1 aspect ratio in the Search feed.
 
 <figure><img src="../../../.gitbook/assets/IG-image-1;1.jpg" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../../.gitbook/assets/ex-IG-image-1;1.jpg" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 You can place text in all areas except for the margin and text is recommended to be left- or center-aligned.
 {% endhint %}
-
-<figure><img src="../../../.gitbook/assets/ex-IG-image-1;1.jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 

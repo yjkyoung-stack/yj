@@ -36,11 +36,15 @@ An original image (9:16) is shown in a 5:8 ratio in the Home feed while it is di
 
 <figure><img src="../../../.gitbook/assets/IG-video thumb-3;4.jpg" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../../.gitbook/assets/ex-IG-video thumb-3;4.jpg" alt=""><figcaption></figcaption></figure>
+
 #### In case you are considering exposure in Search feed
 
 An original image (9:16) is exposed in a 1:1 or 1:2 aspect ratio in the Profile feed.
 
 <figure><img src="../../../.gitbook/assets/1;2.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/ex-IG-video thumb-1;1-1;2.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 You can place text in all areas except for the margin and text is recommended to be left- or center-aligned.
