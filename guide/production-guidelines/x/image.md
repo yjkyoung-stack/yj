@@ -28,7 +28,7 @@ Ensure your content is designed with the safe zone in mind to prevent cropping, 
 
 It is displayed in its original aspect ratio (1:1).
 
-<figure><img src="../../../.gitbook/assets/X-image-single.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/X-image-single (1).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/ex-X-image-single.jpg" alt=""><figcaption></figcaption></figure>
 
