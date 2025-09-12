@@ -1,11 +1,11 @@
 # Video Thumbnail
 
-Since the aspect ratio of video thumbnails varies depending on the menu, carefully consider which menu you are creating content for.
+Instagram uses different aspect ratios depending on where the reel(video) is displayed.
 
 ### Aspect Ratio&#x20;
 
-Given its mobile-oriented characteristics, we recommend using images sized 1920x1080 px in a 9:16 aspect ratio.\
-If you upload one thumbnail, it will be shown in the following aspect ratios in respective menus.
+For best results, use the 9:16 ratio (1920 x 1080 px) for videos.\
+Thumbnails will be shown in the following aspect ratios.
 
 | Location of Display | Aspect Ratio of Displayed Image |
 | ------------------- | ------------------------------- |
@@ -20,7 +20,7 @@ If you upload one thumbnail, it will be shown in the following aspect ratios in 
 
 ### Safe Zone
 
-Arrange key visuals and text within the safe zone in consideration of the aspect ratios of each menu so that they do not get cropped.
+Arrange key visuals and text within the safe zone, taking into account the aspect ratios for each section, to prevent any cropping.
 
 <figure><img src="../../../.gitbook/assets/IG-video-safezone.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -28,7 +28,7 @@ Arrange key visuals and text within the safe zone in consideration of the aspect
 
 ### Layout
 
-Uploaded images will be automatically shown in different aspect ratios according to each platform and exposure page. Make sure to produce content in consideration of the safe zone so as not to get cropped and follow the recommended aspect ratios for each platform.
+Ensure your content is designed with the safe zone in mind to prevent cropping, and follow the recommended aspect ratios for each platform.
 
 #### Default Display Aspect Ratios
 
