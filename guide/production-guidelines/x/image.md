@@ -36,7 +36,7 @@ It is displayed in its original aspect ratio (1:1).
 
 An original image (1:1) is displayed in a 9:10 aspect ratio.
 
-<figure><img src="../../../.gitbook/assets/X-image-2&#x26;3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/X-image-2&#x26;3 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/ex-X-image-2&#x26;3.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -44,7 +44,7 @@ An original image (1:1) is displayed in a 9:10 aspect ratio.
 
 An original image (1:1) is displayed in a 16:9 aspect ratio.
 
-<figure><img src="../../../.gitbook/assets/X-image-4.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/X-image-4 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/ex-X-image-4.jpg" alt=""><figcaption></figcaption></figure>
 
