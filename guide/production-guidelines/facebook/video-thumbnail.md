@@ -1,6 +1,6 @@
 # Video Thumbnail
 
-Since the aspect ratio of video thumbnails varies depending on the page, carefully consider which page you are creating content for.
+Instagram uses different aspect ratios depending on where the reel(video) is displayed.
 
 ### Aspect Ratio&#x20;
 
