@@ -24,9 +24,9 @@ In the guidelines, you can check the recommended formats for each platform, inst
 <table><thead><tr><th width="146.952880859375"> </th><th>Instagram</th><th>Facebook</th><th>X</th></tr></thead><tbody><tr><td>Aspect Ratio</td><td>9:16</td><td>9:16, 16:9</td><td>1:1, 16:9</td></tr><tr><td>Length</td><td>Up to 3 minutes</td><td>Up to 240 minutes</td><td>Up to 2 minutes 20 seconds</td></tr><tr><td>Subtitles</td><td>Subtitles recommended</td><td>Subtitles recommended</td><td>Subtitles recommended</td></tr></tbody></table>
 
 {% hint style="info" %}
-A video thumbnail must be in the same aspect ratio as that of the video.
+The video thumbnail should be in the same aspect ratio as that of the video.
 
-We recommend inserting an end frame in the same aspect ratio as the video at the end of the play.
+We recommend inserting an end frame with the same aspect ratio as the video at the end.
 {% endhint %}
 
 ***
@@ -36,18 +36,17 @@ We recommend inserting an end frame in the same aspect ratio as the video at the
 #### Inserting Text
 
 * Make sure to consider the safe zone so that the message does not get cut off.
-* While text can cover the entire image, we allow only up to 3 lines.
+* Maintain the caption with three lines.
 
 #### Text Alignment
 
 * Text should be left- or center-aligned.
-* RTL languages are allowed to be right-aligned.
+* RTL languages may be right-aligned.
 * Make sure to avoid using multiple alignment styles in one post.
 
 #### Text Composition
 
-* You can use a mix of Headline and Sub-headline.
-* Using a Sub-headline is optional.
+* Sub-headlines are optional.
 
 
 
