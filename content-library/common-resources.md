@@ -19,8 +19,6 @@ Download the files below and proceed to localize.
 ### Download End Frame Template
 
 * [End Frame Template](https://dcm.kia.com/product/contents/contentsForm.do?menuType=detail\&categoryId=0b01e241800c7712\&rObjectId=0901e24180202b65\&pageType=D\&rFolderId=0b01e241800c7712\&hthumbnail=L\&currPageNum=1\&uProjectCode=\&uMarket=\&uDriveType=\&uDoorType=\&uContentType=\&searchType=title\&searchValue=)
-  * End Frame (9:16)
-  * End Frame (16:9)
 
 ***
 
