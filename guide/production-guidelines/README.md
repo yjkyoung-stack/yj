@@ -38,7 +38,7 @@ We recommend inserting an end frame with the same aspect ratio as the video at t
 * Make sure to consider the safe zone so that the message does not get cut off.
 * Maintain the caption with three lines.
 
-<figure><img src="../../.gitbook/assets/text-safezone.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/text-safezone-2.jpg" alt=""><figcaption></figcaption></figure>
 
 #### Text Alignment
 
