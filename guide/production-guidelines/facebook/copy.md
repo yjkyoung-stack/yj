@@ -7,6 +7,8 @@ As Facebook is based on user participation, develop copies that can encourage en
 * Short yet detailed copies before the ‘...more’ caption appears.\
   e.g., _Tap. Check. Relax.​_
 
+<figure><img src="../../../.gitbook/assets/FB-text-more.jpg" alt=""><figcaption></figcaption></figure>
+
 #### Body
 
 * Expressed in a bold, goal-oriented tone.
