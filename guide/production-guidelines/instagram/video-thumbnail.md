@@ -4,7 +4,7 @@ Instagram uses different aspect ratios depending on where the reel(video) is dis
 
 ### Aspect Ratio&#x20;
 
-For best results, use the 9:16 ratio (1920 x 1080 px) for videos.\
+For best results, use the 9:16 ratio (1080 x 1920 px) for videos.\
 Thumbnails will be shown in the following aspect ratios.
 
 | Location of Display | Aspect Ratio of Displayed Image |

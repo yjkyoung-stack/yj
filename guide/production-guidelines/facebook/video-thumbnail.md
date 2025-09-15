@@ -4,7 +4,7 @@ Facebook uses different aspect ratios depending on where the reel(video) is disp
 
 ### Aspect Ratio&#x20;
 
-For best results, use the 9:16 ratio (1920 x 1080 px) for videos.\
+For best results, use the 9:16 ratio (1080 x 1920 px) for videos.\
 However, 16:9 aspect ratio is recommended for landscape format content such as brand or campaign.
 
 Thumbnails will be shown in the following aspect ratios.
