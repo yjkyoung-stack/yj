@@ -21,7 +21,7 @@ Please make sure to review the [production guidelines](../guide/production-guide
 Access the accounts below to preview posts in a real environment before going live.\
 Please follow the instructions below to request access and permission.
 
-<figure><img src="../.gitbook/assets/social account (3).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/social account.jpg" alt=""><figcaption></figcaption></figure>
 
 #### Instagram, X
 
