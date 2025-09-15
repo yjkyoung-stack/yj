@@ -18,7 +18,7 @@ As Facebook is based on user participation, develop copies that can encourage en
 #### CTA
 
 * Recommend inserting a clear, direct CTA copy in the last sentence.\
-  e.g., _Download now \[Insert App Store / Country Link]_
+  e.g., _Download now: \[Insert App Store / Country Link]_
 
 #### Hashtag
 

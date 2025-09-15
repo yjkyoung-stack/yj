@@ -16,7 +16,7 @@ As X shows real-time reactions to trending issues, we recommend copies that are 
 #### CTA
 
 * We recommend inserting a clear, direct CTA copy in the last sentence.\
-  e.g., _Download now \[Insert App Store / Country Link]_
+  e.g., _Download now: \[Insert App Store / Country Link]_
 
 #### Hashtag
 
