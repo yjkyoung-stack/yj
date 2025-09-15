@@ -32,7 +32,7 @@ Please follow the instructions below to request access and permission.
 
 #### Facebook
 
-* Unlike instagram and X, Facebook requires a separate access request.
+* Unlike Instagram and X, Facebook requires a separate access request.
 
 > 1. Have your Facebook account ready.
 > 2. Send your Facebook email address and name to the email address below.
