@@ -11,7 +11,7 @@ As X shows real-time reactions to trending issues, we recommend copies that are 
 
 * Copies should be intuitive and have a nice rhythm when read.
 * Elaborate key benefits in detail to suggest what actions a user should take.\
-  예) _Instantly check all your Kia warranty and recall info, right on your phone._
+  e.g., _Instantly check all your Kia warranty and recall info, right on your phone._
 
 #### CTA
 
