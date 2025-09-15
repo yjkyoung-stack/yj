@@ -36,7 +36,7 @@ Please follow the instructions below to request access and permission.
 
 > 1. Have your Facebook account ready.
 > 2. Send your Facebook email address and name to the email address below.
->    * Email address for access request: \[Z404122@kia.com]
+>    * Email address for access request: \[[Z404122@kia.com](mailto:Z404122@kia.com)]
 > 3. Your access request will be approved by KHQ after validating the information.
 > 4. Once approved, you will receive an invite in the Facebook email address you entered. (Email and Facebook app notification)
 > 5. Go to Facebook and accept the invite to access the content.
