@@ -1,7 +1,7 @@
 # Content Library
 
 The Content Library contains all the content and assets for you to see at a glance.\
-You can view the monthly content and upload dates.Feel free to download any materials you need.
+You can view the monthly content and upload dates. Feel free to download any materials you need.
 
 ### 2025.09
 
