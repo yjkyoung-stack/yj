@@ -17,7 +17,7 @@ Thumbnails will be shown in the following aspect ratios.
 
 #### 9:16 Video
 
-<figure><img src="../../../.gitbook/assets/FB-video-ratio-9;16.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/FB-video-ratio-9;16 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 #### 16:9 Video
 
