@@ -40,7 +40,7 @@ An original image (9:16) is shown in a 5:8 ratio in the Home feed while it is di
 
 #### In case you are considering exposure in Search feed
 
-An original image (9:16) is exposed in a 1:1 or 1:2 aspect ratio in the Profile feed.
+An original image (9:16) is exposed in a 1:1 or 1:2 aspect ratio in the Search feed.
 
 <figure><img src="../../../.gitbook/assets/1;2.jpg" alt=""><figcaption></figcaption></figure>
 
