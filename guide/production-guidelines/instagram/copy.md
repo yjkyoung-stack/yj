@@ -22,7 +22,7 @@ As Instagram is a visually-driven platform, develop concise copy that complement
 #### Hashtag
 
 * In general, three to five (or up to ten) hashtags are recommended that best represent the brand.
-* Required hashtags: <mark style="color:purple;">#Kia #MovementThatInspires</mark>
+* Required hashtags: <mark style="color:blue;">#Kia #MovementThatInspires</mark>
 
 
 
