@@ -5,7 +5,7 @@ In the guidelines, you can check the recommended formats for each platform, inst
 
 ***
 
-### Go to Production Guidelines for Each Platform
+### Production Guidelines for Each Platform
 
 <table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><i class="fa-square-instagram">:square-instagram:</i><br>Guidelines for Instagram</td><td><a href="instagram/">instagram</a></td></tr><tr><td><i class="fa-square-facebook">:square-facebook:</i><br>Guidelines for Facebook</td><td><a href="facebook/">facebook</a></td></tr><tr><td><i class="fa-square-x-twitter">:square-x-twitter:</i><br>Guidelines for X</td><td><a href="x/">x</a></td></tr></tbody></table>
 
