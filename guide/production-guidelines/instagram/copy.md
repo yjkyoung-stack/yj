@@ -17,7 +17,7 @@ As Instagram is a visually-driven platform, develop concise copy that complement
 
 #### CTA (Call To Action)
 
-* CTA is to encourage users to click the link in the profile to view information in detail. (Insert the link in the body.)
+* CTA is to encourage users to click the link in the profile to view information in detail. (Insert “link in bio” in the caption.)
 
 #### Hashtag
 
