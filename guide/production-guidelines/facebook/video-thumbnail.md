@@ -13,7 +13,7 @@ Thumbnails will be shown in the following aspect ratios.
 | ------------------ | ------------------- | ------------------------------- |
 | 9:16               | Feed                | 4:5                             |
 | 9:16               | Full Screen         | Vertical Full Screen            |
-| 16:9               | Feed·Full Screen    | 16:9                            |
+| 16:9               | Feed / Full Screen  | 16:9                            |
 
 #### 9:16 Video
 
