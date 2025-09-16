@@ -13,7 +13,7 @@ To minimize loss of image, we recommend using images sized 1080×1080 px in a 1:
 | ----------------------- | ---------------------------------- |
 | 1 Image                 | 1:1                                |
 | 2 Images                | 9:10                               |
-| 3 Images                | First image: 9:10 / The rest: 16:9 |
+| 3 Images                | First Image: 9:10 / The Rest: 16:9 |
 | 4 Images                | 16:9                               |
 
 <figure><img src="../../../.gitbook/assets/X-image-ratio.jpg" alt=""><figcaption></figcaption></figure>
