@@ -11,7 +11,7 @@ Thumbnails will be shown in the following aspect ratios.
 | ------------------- | ------------------------------- |
 | Home Feed           | 5:8                             |
 | Profile Feed        | 3:4                             |
-| Search Feed         | 1:1, 1:2                        |
+| Search & Explore    | 1:1, 1:2                        |
 | Full Screen         | Vertical full screen            |
 
 <figure><img src="../../../.gitbook/assets/IG-video-ratio.jpg" alt=""><figcaption></figcaption></figure>
@@ -38,9 +38,9 @@ An original image (9:16) is shown in a 5:8 ratio in the Home feed while it is di
 
 <figure><img src="../../../.gitbook/assets/ex-IG-video thumb-3;4.jpg" alt=""><figcaption></figcaption></figure>
 
-#### In case you are considering exposure in Search feed
+#### In case you are considering exposure in Search & Explore
 
-An original image (9:16) is exposed in a 1:1 or 1:2 aspect ratio in the Search feed.
+An original image (9:16) is exposed in a 1:1 or 1:2 aspect ratio in Search & Explore.
 
 <figure><img src="../../../.gitbook/assets/1;2.jpg" alt=""><figcaption></figcaption></figure>
 
