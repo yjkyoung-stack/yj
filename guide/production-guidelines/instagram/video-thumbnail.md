@@ -14,7 +14,7 @@ Thumbnails will be shown in the following aspect ratios.
 | Search & Explore    | 1:1, 1:2                        |
 | Full Screen         | Vertical full screen            |
 
-<figure><img src="../../../.gitbook/assets/IG-video-ratio.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/IG-video-ratio (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 
