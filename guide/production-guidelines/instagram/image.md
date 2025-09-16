@@ -10,7 +10,7 @@ For best results, use the 4:5 portrait ratio (1080 x 1350 px) for feed posts, as
 | ------------------- | ------------------------------- |
 | Home Feed           | 4:5                             |
 | Profile Feed        | 3:4                             |
-| Search Feed         | 1:1                             |
+| Search & Explore    | 1:1                             |
 
 <figure><img src="../../../.gitbook/assets/IG-image-ratio.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -28,9 +28,9 @@ An original image (4:5) is shown in the same aspect ratio in the Home feed while
 
 <figure><img src="../../../.gitbook/assets/ex-IG-image-3;4 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-#### In case you are considering exposure in Search feed
+#### In case you are considering exposure in Search & Explore
 
-An original image (4:5) is exposed in a 1:1 aspect ratio in the Search feed.
+An original image (4:5) is exposed in a 1:1 aspect ratio in Search & Explore.
 
 <figure><img src="../../../.gitbook/assets/IG-image-1;1.jpg" alt=""><figcaption></figcaption></figure>
 
