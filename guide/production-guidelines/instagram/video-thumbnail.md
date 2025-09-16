@@ -12,7 +12,7 @@ Thumbnails will be shown in the following aspect ratios.
 | Home Feed           | 5:8                             |
 | Profile Feed        | 3:4                             |
 | Search & Explore    | 1:1, 1:2                        |
-| Full Screen         | Vertical full screen            |
+| Full Screen         | Vertical Full Screen            |
 
 <figure><img src="../../../.gitbook/assets/IG-video-ratio (1).jpg" alt=""><figcaption></figcaption></figure>
 
