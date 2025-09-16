@@ -2,13 +2,13 @@
 
 KHQ distributes social media content with the objectives of raising awareness of its ownership program, increasing sales and driving traffic to the website.
 
-In the [Content Library](../content-library/content-library/), you can access images, texts and examples of each content. In addition, we have included [operation guidelines](../guide/operation-guidelines.md) and [production guidelines](../guide/production-guidelines/) for your reference so you can easily edit and produce content tailored to local needs.
+In the [Content Library](../content-library/content-library/), you can access images, copy and examples of each content. In addition, we have included [operation guidelines](../guide/operation-guidelines.md) and [production guidelines](../guide/production-guidelines/) for your reference so you can easily edit and produce content tailored to local needs.
 
 ***
 
 ### Content Type and Format
 
-<table><thead><tr><th width="199.782470703125">Type</th><th>Format</th><th data-hidden></th></tr></thead><tbody><tr><td>Image</td><td>Clean version, Text-embedded version</td><td></td></tr><tr><td>Text</td><td>Hook, Body, CTA, Hashtag included</td><td></td></tr><tr><td>PSD (optional)</td><td>For editing and translating texts in image</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="199.782470703125">Type</th><th>Format</th><th data-hidden></th></tr></thead><tbody><tr><td>Image</td><td>Clean version, Text-embedded version</td><td></td></tr><tr><td>Copy</td><td>Hook, Body, CTA, Hashtag included</td><td></td></tr><tr><td>PSD (optional)</td><td>For editing and translating text in image</td><td></td></tr></tbody></table>
 
 {% hint style="warning" %}
 Please make sure to review the [production guidelines](../guide/production-guidelines/) before producing content and localize the content according to the guidelines.
