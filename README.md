@@ -1,6 +1,6 @@
 ---
 cover: .gitbook/assets/Cover.png
-coverY: 0
+coverY: 157.61564671769347
 layout:
   width: default
   cover:
