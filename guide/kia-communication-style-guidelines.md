@@ -7,8 +7,10 @@ noIndex: true
 This section presents Kia's visual styles as well as the brand’s voice and tone for copywriting.\
 Download various design resources including the font, logo and colors.
 
+{% hint style="warning" %}
 To maintain brand consistency across markets, it is essential to refer to the Communication Style Guidelines when localizing.\
 Since the Communication Style Guidelines include downloadable brand assets, please ensure an NDA is signed before sharing them externally.
+{% endhint %}
 
 
 
