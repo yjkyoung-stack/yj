@@ -1,4 +1,5 @@
 ---
+noIndex: true
 cover: .gitbook/assets/Cover.png
 coverY: 157.61564671769347
 layout:
