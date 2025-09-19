@@ -1,3 +1,7 @@
+---
+noIndex: true
+---
+
 # Common Resources
 
 Below are the resources that are commonly used for editing content.\

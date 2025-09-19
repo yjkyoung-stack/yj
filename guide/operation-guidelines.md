@@ -1,3 +1,7 @@
+---
+noIndex: true
+---
+
 # Operation Guidelines
 
 This document explains the workflow and execution procedures for operating Kia Ownership social media content.\

@@ -1,3 +1,7 @@
+---
+noIndex: true
+---
+
 # Overview
 
 KHQ distributes social media content with the objectives of raising awareness of its ownership program, increasing sales and driving traffic to the website.
