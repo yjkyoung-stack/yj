@@ -1,7 +1,7 @@
 ---
 noIndex: true
 cover: .gitbook/assets/background-gitbook.jpg
-coverY: -299.3854834000913
+coverY: -346.91372215040576
 layout:
   width: default
   cover:
