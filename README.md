@@ -1,14 +1,34 @@
-# Home
+---
+cover: .gitbook/assets/Cover.png
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
+# Welcome 👋
 
 Take a look at Kia Owners social media content and guidelines at a glance.\
 We have content examples, assets, copy and production guidelines for each social media channel already made for you.\
 Select the content of your choice to download and adapt the content as needed to fit your local context.
 
+***
 
-
-
-
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><p><img src=".gitbook/assets/ads_click.png" alt="" data-size="line"></p><p><strong>Getting Started</strong></p></td><td>Start with a brief overview.</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><p><img src=".gitbook/assets/browse.png" alt="" data-size="line"></p><p><strong>Content Library</strong></p></td><td>Content, images and copy all in one place.</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><p><img src=".gitbook/assets/info.png" alt="" data-size="line"></p><p><strong>Guide</strong></p></td><td>Check the guidelines you need - from production to operation.</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Start with a brief overview.</td><td></td><td></td><td></td></tr><tr><td><strong>Content Library</strong></td><td>Content, images and copy all in one place.</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Guide</strong></td><td>Check the guidelines you need - from production to operation.</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
 
 
 
