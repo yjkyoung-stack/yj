@@ -1,7 +1,7 @@
 ---
 noIndex: true
-cover: .gitbook/assets/Cover.png
-coverY: 157.61564671769347
+cover: .gitbook/assets/background-gitbook.jpg
+coverY: -299.3854834000913
 layout:
   width: default
   cover:
@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# Welcome 👋
+# Welcome
 
 #### Take a look at Kia Owners social media content and guidelines at a glance.
 
