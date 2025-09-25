@@ -1,7 +1,7 @@
 ---
 noIndex: true
 cover: .gitbook/assets/CT_LHD_Dynamic_Welcome_Light-down.jpg
-coverY: -38.91332233885517
+coverY: -11.01131959933284
 layout:
   width: default
   cover:
