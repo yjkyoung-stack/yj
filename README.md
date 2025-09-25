@@ -1,7 +1,7 @@
 ---
 noIndex: true
-cover: .gitbook/assets/background-gitbook.jpg
-coverY: -346.91372215040576
+cover: .gitbook/assets/CT_LHD_Dynamic_Welcome_Light.jpg
+coverY: -88.27083572190787
 layout:
   width: default
   cover:
