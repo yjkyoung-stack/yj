@@ -32,3 +32,7 @@
     * [Image](guide/production-guidelines/x/image.md)
     * [Copy](guide/production-guidelines/x/copy.md)
 * [Kia Communication Style Guidelines](guide/kia-communication-style-guidelines.md)
+
+***
+
+* [Newsletter img](newsletter-img.md)
