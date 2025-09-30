@@ -15,7 +15,6 @@
   * [4. Roadside Assistance](content-library/content-library/4.-roadside-assistance.md)
   * [5. Kia Certified Green Store : Concept​](content-library/content-library/5.-kia-certified-green-store-concept.md)
   * [6. Kia Certified Green Store : Operation​](content-library/content-library/6.-kia-certified-green-store-operation.md)
-  * [7. Kia Certified Green Store : Customer Experience​](content-library/content-library/7.-kia-certified-green-store-customer-experience.md)
 * [Common Resources](content-library/common-resources.md)
 
 ## Guide
