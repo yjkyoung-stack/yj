@@ -10,7 +10,7 @@ As Facebook is well known for communicating information and encouraging engageme
 
 ### Production Guidelines for Each Content Type
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><i class="fa-image">:image:</i> <br>Image</td><td><a href="image.md">image.md</a></td></tr><tr><td><i class="fa-video">:video:</i> <br>Video Thumbnail</td><td><a href="video-thumbnail.md">video-thumbnail.md</a></td></tr><tr><td><i class="fa-text">:text:</i><br>Copy</td><td><a href="copy.md">copy.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Image</td><td><a href="image.md">image.md</a></td><td><a href="../../../.gitbook/assets/Image.jpg">Image.jpg</a></td></tr><tr><td>Video Thumbnail</td><td><a href="video-thumbnail.md">video-thumbnail.md</a></td><td><a href="../../../.gitbook/assets/Video.jpg">Video.jpg</a></td></tr><tr><td>Copy</td><td><a href="copy.md">copy.md</a></td><td><a href="../../../.gitbook/assets/Text.jpg">Text.jpg</a></td></tr></tbody></table>
 
 
 
