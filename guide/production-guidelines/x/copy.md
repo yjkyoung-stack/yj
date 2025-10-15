@@ -2,6 +2,10 @@
 
 As X shows real-time reactions to trending issues, we recommend copies that are short and intuitive.
 
+{% hint style="warning" %}
+Please make sure to keep the total copy within 280 characters (including spaces) when using a free X account.
+{% endhint %}
+
 #### Hook
 
 * Elaborate the hook to highlight the key message.\
