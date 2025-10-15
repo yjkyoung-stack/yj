@@ -13,7 +13,7 @@ You can view the monthly content and upload dates. Feel free to download any mat
 
 ### 2025.10
 
-<table><thead><tr><th width="599.86083984375">Content</th><th>Date uploaded</th></tr></thead><tbody><tr><td><ol start="5"><li>Kia Certified Green Store : Concept​</li></ol></td><td></td></tr><tr><td><ol start="6"><li>Kia Certified Green Store : Operation​</li></ol></td><td></td></tr><tr><td><ol start="7"><li>Kia Certified Green Store : Customer Experience​</li></ol></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="599.86083984375">Content</th><th>Date uploaded</th></tr></thead><tbody><tr><td><ol start="5"><li><a href="5.-kia-certified-green-store-concept.md">Kia Certified Green Store : Concept​</a></li></ol></td><td></td></tr><tr><td><ol start="6"><li><a href="6.-kia-certified-green-store-operation.md">Kia Certified Green Store : Operation​</a></li></ol></td><td></td></tr><tr><td><ol start="7"><li><a href="7.-kia-certified-green-store-customer-experience.md">Kia Certified Green Store : Customer Experience​</a></li></ol></td><td></td></tr></tbody></table>
 
 ### 2025.11
 
