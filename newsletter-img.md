@@ -6,7 +6,7 @@ hidden: true
 
 ## 10월 발행
 
-<div><figure><img src=".gitbook/assets/newsletter-10-01@1.5.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/newsletter-10-02@1.5.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/newsletter-10-03@1.5.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/newsletter-10-04@1.5.jpg" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src=".gitbook/assets/newsletter-10-01@2x.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/newsletter-10-02@2x.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/newsletter-10-03@2x.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/newsletter-10-04@2x.png" alt=""><figcaption></figcaption></figure></div>
 
 ## 9월 발행
 
