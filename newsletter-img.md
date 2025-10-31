@@ -4,6 +4,10 @@ hidden: true
 
 # Newsletter img
 
+## 11월 발행 - 유진 테스트
+
+<figure><img src=".gitbook/assets/Newsletter-2511 (2).jpg" alt=""><figcaption></figcaption></figure>
+
 ## 10월 발행
 
 <div><figure><img src=".gitbook/assets/newsletter-10-01 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/newsletter-10-02 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/newsletter-10-03 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/newsletter-10-04 (2).jpg" alt=""><figcaption></figcaption></figure></div>
