@@ -6,25 +6,61 @@ hidden: true
 
 ## 11월 발행 - 유진 테스트
 
-<figure><img src=".gitbook/assets/Newsletter-2511 (2).jpg" alt=""><figcaption></figcaption></figure>
+01
 
-<div><figure><img src=".gitbook/assets/01-header-hero (2).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/02-text-section (2).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/03-button (2).jpg" alt=""><figcaption></figcaption></figure></div>
+<figure><img src=".gitbook/assets/01-logo (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<div><figure><img src=".gitbook/assets/04-featured-title (2).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/05-featured-1 (2).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-featured-2 (2).jpg" alt=""><figcaption></figcaption></figure></div>
+02
 
-<div><figure><img src=".gitbook/assets/07-featured-3 (2).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/08-featured-4 (2).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/09-featured-5 (2).jpg" alt=""><figcaption></figcaption></figure></div>
+<figure><img src=".gitbook/assets/02-img.jpg" alt=""><figcaption></figcaption></figure>
 
-<div><figure><img src=".gitbook/assets/10-social-divider-spacer (2).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/11-social-text (2).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/12-social-facebook (2).jpg" alt=""><figcaption></figcaption></figure></div>
+03
 
-<div><figure><img src=".gitbook/assets/13-social-instagram (2).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/14-social-x (2).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/15-social-spacer-bottom (2).jpg" alt=""><figcaption></figcaption></figure></div>
+<figure><img src=".gitbook/assets/03-text (2).jpg" alt=""><figcaption></figcaption></figure>
 
-<div><figure><img src=".gitbook/assets/16-contact-title (2).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/17-taiwon-info (2).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/18-sarah-info (2).jpg" alt=""><figcaption></figcaption></figure></div>
+04
 
-<div><figure><img src=".gitbook/assets/19-contact-spacer-bottom (2).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/20-footer (2).jpg" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src=".gitbook/assets/04-1 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/04-2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/04-3 (1).jpg" alt=""><figcaption></figcaption></figure></div>
 
+05
 
+<figure><img src=".gitbook/assets/05-title (2).jpg" alt=""><figcaption></figcaption></figure>
 
+06
 
+<div><figure><img src=".gitbook/assets/06-1 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-3 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-4.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-5 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-6.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-7.jpg" alt=""><figcaption></figcaption></figure></div>
+
+07
+
+<figure><img src=".gitbook/assets/07-margin (1).jpg" alt=""><figcaption></figcaption></figure>
+
+08
+
+<div><figure><img src=".gitbook/assets/08-1 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/08-2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/08-3 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/08-4.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/08-5.jpg" alt=""><figcaption></figcaption></figure></div>
+
+09
+
+<figure><img src=".gitbook/assets/09.jpg" alt=""><figcaption></figcaption></figure>
+
+10
+
+<div><figure><img src=".gitbook/assets/10-1 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/10-2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/10-3.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/10-4.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/10-5 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/10-6.jpg" alt=""><figcaption></figcaption></figure></div>
+
+11
+
+<figure><img src=".gitbook/assets/11 (1).jpg" alt=""><figcaption></figcaption></figure>
+
+12
+
+<figure><img src=".gitbook/assets/12 (1).jpg" alt=""><figcaption></figcaption></figure>
+
+13
+
+<div><figure><img src=".gitbook/assets/13-1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/13-2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/13-3.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/13-4.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/13-5.jpg" alt=""><figcaption></figcaption></figure></div>
+
+14
+
+<figure><img src=".gitbook/assets/14.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
