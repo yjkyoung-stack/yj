@@ -6,13 +6,25 @@ hidden: true
 
 ## 11월 발행 - 유진 테스트
 
-01
+#### 01
 
 <figure><img src=".gitbook/assets/01-logo (1).jpg" alt=""><figcaption></figcaption></figure>
 
-02
+<details>
+
+<summary>URL</summary>
+
+[https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=1975636868/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252FrGcCldo54lTHJhDPSaN6%252F01-logo.jpg%3Falt%3Dmedia%26token%3Dc0e163ae-7aee-47a4-b21e-1344c4f0a62f](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=1975636868/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2FrGcCldo54lTHJhDPSaN6%2F01-logo.jpg%3Falt%3Dmedia%26token%3Dc0e163ae-7aee-47a4-b21e-1344c4f0a62f)
+
+</details>
+
+
+
+#### 02
 
 <figure><img src=".gitbook/assets/02-img.jpg" alt=""><figcaption></figcaption></figure>
+
+
 
 03
 
