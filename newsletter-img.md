@@ -79,6 +79,16 @@ v.2 11번 구분
   * [https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-1922636328/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252FIq9LvBaaCY0e0GQR7WE1%252F04-2-button.jpg%3Falt%3Dmedia%26token%3D69ce491e-728b-4415-9b5e-aab8bda3a2e0](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-1922636328/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2FIq9LvBaaCY0e0GQR7WE1%2F04-2-button.jpg%3Falt%3Dmedia%26token%3D69ce491e-728b-4415-9b5e-aab8bda3a2e0)
   * [https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=79667709/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252F3ryvTqHV4ATKSQ4ThIN4%252F04-3.jpg%3Falt%3Dmedia%26token%3De24c0453-4f31-443d-bf12-215184144cb2](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=79667709/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2F3ryvTqHV4ATKSQ4ThIN4%2F04-3.jpg%3Falt%3Dmedia%26token%3De24c0453-4f31-443d-bf12-215184144cb2)
 
+#### 05-공통 리소스: Featured Content This Month
+
+<figure><img src=".gitbook/assets/05-title (1).jpg" alt=""><figcaption></figcaption></figure>
+
+* URL: [https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-513895100/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252FxCK6enRKEr8udfNBulCI%252F05-title.jpg%3Falt%3Dmedia%26token%3Dd59f9d08-5d8f-4d7a-ba4d-682de18b8fa7](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-513895100/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2FxCK6enRKEr8udfNBulCI%2F05-title.jpg%3Falt%3Dmedia%26token%3Dd59f9d08-5d8f-4d7a-ba4d-682de18b8fa7)
+
+06-카드 3단
+
+<div><figure><img src=".gitbook/assets/06-1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-2-card (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-3.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-4-card.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-5.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-6-card.jpg" alt=""><figcaption></figcaption></figure></div>
+
 ㄱ
 
 
