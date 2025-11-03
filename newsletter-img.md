@@ -106,7 +106,7 @@ v.2 11번 구분
 
 <summary>이미지 URL</summary>
 
-h[ttps://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=1513338626/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252FXetpfraBBVxnZxmgNWZb%252F01-logo.jpg%3Falt%3Dmedia%26token%3Dfe13a548-7c6e-4e32-89b4-bbadeb82b27f](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=1513338626/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2FXetpfraBBVxnZxmgNWZb%2F01-logo.jpg%3Falt%3Dmedia%26token%3Dfe13a548-7c6e-4e32-89b4-bbadeb82b27f)
+[https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=1975636868/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252FrGcCldo54lTHJhDPSaN6%252F01-logo.jpg%3Falt%3Dmedia%26token%3Dc0e163ae-7aee-47a4-b21e-1344c4f0a62f](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=1975636868/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2FrGcCldo54lTHJhDPSaN6%2F01-logo.jpg%3Falt%3Dmedia%26token%3Dc0e163ae-7aee-47a4-b21e-1344c4f0a62f)
 
 </details>
 
@@ -118,7 +118,10 @@ h[ttps://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=aut
 
 <figure><img src=".gitbook/assets/02-img-tasman.jpg" alt=""><figcaption></figcaption></figure>
 
-* URL [https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-673304902/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252FX4TfSGBdoriq16qUemqd%252F02-img-tasman.jpg%3Falt%3Dmedia%26token%3D62a57603-d27b-4ef8-bc88-b1e68f97258f](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-673304902/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2FX4TfSGBdoriq16qUemqd%2F02-img-tasman.jpg%3Falt%3Dmedia%26token%3D62a57603-d27b-4ef8-bc88-b1e68f97258f)
+* URL&#x20;
+  * [https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-673304902/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252FX4TfSGBdoriq16qUemqd%252F02-img-tasman.jpg%3Falt%3Dmedia%26token%3D62a57603-d27b-4ef8-bc88-b1e68f97258f](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-673304902/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2FX4TfSGBdoriq16qUemqd%2F02-img-tasman.jpg%3Falt%3Dmedia%26token%3D62a57603-d27b-4ef8-bc88-b1e68f97258f)
+
+
 
 </details>
 
