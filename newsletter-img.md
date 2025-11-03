@@ -10,14 +10,6 @@ hidden: true
 
 <figure><img src=".gitbook/assets/01-logo (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<details>
-
-<summary>URL</summary>
-
-[https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=1975636868/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252FrGcCldo54lTHJhDPSaN6%252F01-logo.jpg%3Falt%3Dmedia%26token%3Dc0e163ae-7aee-47a4-b21e-1344c4f0a62f](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=1975636868/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2FrGcCldo54lTHJhDPSaN6%2F01-logo.jpg%3Falt%3Dmedia%26token%3Dc0e163ae-7aee-47a4-b21e-1344c4f0a62f)
-
-</details>
-
 
 
 #### 02
@@ -106,11 +98,13 @@ v.2 11번 구분
 
 <summary>이미지 URL</summary>
 
-[https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=1975636868/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252FrGcCldo54lTHJhDPSaN6%252F01-logo.jpg%3Falt%3Dmedia%26token%3Dc0e163ae-7aee-47a4-b21e-1344c4f0a62f](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=1975636868/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2FrGcCldo54lTHJhDPSaN6%2F01-logo.jpg%3Falt%3Dmedia%26token%3Dc0e163ae-7aee-47a4-b21e-1344c4f0a62f)
+
 
 </details>
 
 #### 02-KV 이미지&#x20;
+
+[https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-673304902/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252FX4TfSGBdoriq16qUemqd%252F02-img-tasman.jpg%3Falt%3Dmedia%26token%3D62a57603-d27b-4ef8-bc88-b1e68f97258f](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-673304902/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2FX4TfSGBdoriq16qUemqd%2F02-img-tasman.jpg%3Falt%3Dmedia%26token%3D62a57603-d27b-4ef8-bc88-b1e68f97258f)
 
 <details>
 
@@ -147,11 +141,11 @@ v.2 11번 구분
 
 
 
-* 01\. 좌측 여백&#x20;
+* 01\. 좌측 여백 36x40
   * [https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-403456806/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252FlwktUCeAvN0Skc1NfgkK%252F04-1.jpg%3Falt%3Dmedia%26token%3D21e12c13-d0ac-4bac-9fa3-e10c57319460](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-403456806/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2FlwktUCeAvN0Skc1NfgkK%2F04-1.jpg%3Falt%3Dmedia%26token%3D21e12c13-d0ac-4bac-9fa3-e10c57319460)
-* 02\. 버튼&#x20;
+* 02\. 버튼 212x40
   * [https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-1922636328/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252FIq9LvBaaCY0e0GQR7WE1%252F04-2-button.jpg%3Falt%3Dmedia%26token%3D69ce491e-728b-4415-9b5e-aab8bda3a2e0](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-1922636328/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2FIq9LvBaaCY0e0GQR7WE1%2F04-2-button.jpg%3Falt%3Dmedia%26token%3D69ce491e-728b-4415-9b5e-aab8bda3a2e0)
-* 03 우측 여백
+* 03 우측 여백 412x40
   * [https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=79667709/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252F3ryvTqHV4ATKSQ4ThIN4%252F04-3.jpg%3Falt%3Dmedia%26token%3De24c0453-4f31-443d-bf12-215184144cb2](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=79667709/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2F3ryvTqHV4ATKSQ4ThIN4%2F04-3.jpg%3Falt%3Dmedia%26token%3De24c0453-4f31-443d-bf12-215184144cb2)
 
 </details>
