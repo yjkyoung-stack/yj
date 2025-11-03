@@ -32,7 +32,7 @@ hidden: true
 
 07
 
-<figure><img src=".gitbook/assets/07-margin (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/07-margin (2).jpg" alt=""><figcaption></figcaption></figure>
 
 08
 
