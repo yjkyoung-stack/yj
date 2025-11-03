@@ -61,16 +61,14 @@ You can place text in all areas except for the margin and text is recommended to
 * Font: Kia Signature Regular&#x20;
 * Size: 72pt&#x20;
 * Line height: 94pt
+* Line Spacing: 25px
 
 #### Sub-headline
 
 * Font: Kia Signature Regular&#x20;
 * Size: 48pt&#x20;
 * Line height: 62pt
-
-#### Line Spacing
-
-* Line Spacing: 40px
+* Line Spacing: 20px
 
 
 
