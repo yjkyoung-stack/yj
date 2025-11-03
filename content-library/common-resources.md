@@ -11,7 +11,7 @@ Download the files below and proceed to localize.
 
 ### Download PSD Template
 
-* [PSD Template](https://dcm.kia.com/product/contents/contentsForm.do?menuType=detail\&categoryId=0b01e241800c7712\&rObjectId=0901e24180202b67\&pageType=D\&rFolderId=0b01e241800c7712\&hthumbnail=L\&currPageNum=1\&uProjectCode=\&uMarket=\&uDriveType=\&uDoorType=\&uContentType=\&searchType=title\&searchValue=)
+* [PSD Template](https://dcm.kia.com/product/contents/contentsForm.do?menuType=detail\&categoryId=0b01e241800c7712\&rObjectId=0901e24180203bda\&pageType=D\&rFolderId=0b01e241800c7712\&hthumbnail=L\&currPageNum=1\&uProjectCode=\&uMarket=\&uDriveType=\&uDoorType=\&uContentType=\&searchType=title\&searchValue=)
   * Instagram (4:5)
   * Facebook (4:5)
   * X (1:1)
