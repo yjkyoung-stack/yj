@@ -135,9 +135,9 @@ v.2 11번 구분
 
 <summary>11월 URL</summary>
 
-<figure><img src=".gitbook/assets/03-text.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/03-11 text-660x256.jpg" alt=""><figcaption></figcaption></figure>
 
-* URL: [https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=121195600/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252FoG8bPm4AfxB2ekZbotpT%252F03-text.jpg%3Falt%3Dmedia%26token%3Db5277e67-f2b4-4065-99c7-d2111cd15813](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=121195600/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2FoG8bPm4AfxB2ekZbotpT%2F03-text.jpg%3Falt%3Dmedia%26token%3Db5277e67-f2b4-4065-99c7-d2111cd15813)
+[https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=2044303265/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252FuYcthRrRbPF1uTDgVjIT%252F03-11%2520text-660x256.jpg%3Falt%3Dmedia%26token%3Dbb0004ef-5cab-480e-89eb-85795b4119ca](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=2044303265/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2FuYcthRrRbPF1uTDgVjIT%2F03-11%20text-660x256.jpg%3Falt%3Dmedia%26token%3Dbb0004ef-5cab-480e-89eb-85795b4119ca)
 
 </details>
 
