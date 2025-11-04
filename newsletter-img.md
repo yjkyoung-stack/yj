@@ -116,7 +116,7 @@ v.2 11번 구분
 
 #### 02-KV 이미지&#x20;
 
-[https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-673304902/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252FX4TfSGBdoriq16qUemqd%252F02-img-tasman.jpg%3Falt%3Dmedia%26token%3D62a57603-d27b-4ef8-bc88-b1e68f97258f](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-673304902/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2FX4TfSGBdoriq16qUemqd%2F02-img-tasman.jpg%3Falt%3Dmedia%26token%3D62a57603-d27b-4ef8-bc88-b1e68f97258f)
+
 
 <details>
 
@@ -126,8 +126,6 @@ v.2 11번 구분
 
 * URL&#x20;
   * [https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-673304902/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252FX4TfSGBdoriq16qUemqd%252F02-img-tasman.jpg%3Falt%3Dmedia%26token%3D62a57603-d27b-4ef8-bc88-b1e68f97258f](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-673304902/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2FX4TfSGBdoriq16qUemqd%2F02-img-tasman.jpg%3Falt%3Dmedia%26token%3D62a57603-d27b-4ef8-bc88-b1e68f97258f)
-
-
 
 </details>
 
