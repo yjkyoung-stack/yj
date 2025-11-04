@@ -4,7 +4,7 @@ hidden: true
 
 # Newsletter img
 
-## 11월 발행 - 유진 테스트
+## 5개 버전
 
 #### 01
 
@@ -40,7 +40,7 @@ hidden: true
 
 06
 
-<div><figure><img src=".gitbook/assets/06-1 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-2 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-3 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-4 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-5 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-6 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-7.jpg" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src=".gitbook/assets/06-1 (1) (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-2 (1) (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-3 (1) (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-4 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-5 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-6 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-7.jpg" alt=""><figcaption></figcaption></figure></div>
 
 07
 
@@ -74,9 +74,19 @@ hidden: true
 
 <figure><img src=".gitbook/assets/14.jpg" alt=""><figcaption></figcaption></figure>
 
-<div><figure><img src=".gitbook/assets/06-2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-4.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-6.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/08-2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/08-4.jpg" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src=".gitbook/assets/06-2 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-4.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-6.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/08-2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/08-4.jpg" alt=""><figcaption></figcaption></figure></div>
+
+***
+
+## 1개 버전
+
+06
+
+<div><figure><img src=".gitbook/assets/06-1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-3.jpg" alt=""><figcaption></figcaption></figure></div>
 
 
+
+***
 
 ## 10월 발행
 
@@ -188,7 +198,7 @@ Image 558x161
 
 #### 06-카드 3단
 
-<div><figure><img src=".gitbook/assets/06-1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-2-card (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-3.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-4-card.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-5.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-6-card.jpg" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src=".gitbook/assets/06-1 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-2-card (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-3 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-4-card.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-5.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-6-card.jpg" alt=""><figcaption></figcaption></figure></div>
 
 <details>
 
