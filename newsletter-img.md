@@ -178,7 +178,13 @@ v.2 11번 구분
 
 <div><figure><img src=".gitbook/assets/06-1-36x161.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-2-558x161.jpg" alt=""><figcaption></figcaption></figure></div>
 
-ㅈ
+좌, 우측 여백 36x161&#x20;
+
+[https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-78325955/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252Fxc7BAKo048Fo0TNlifek%252F06-1-36x161.jpg%3Falt%3Dmedia%26token%3Da900236d-dabf-497f-ab31-86b03696e12e](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-78325955/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2Fxc7BAKo048Fo0TNlifek%2F06-1-36x161.jpg%3Falt%3Dmedia%26token%3Da900236d-dabf-497f-ab31-86b03696e12e)
+
+Image 558x161
+
+[https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=1366381647/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252FsSWigj9sPKIWoi3YnYTJ%252F06-2-558x161.jpg%3Falt%3Dmedia%26token%3Ddf46a7ef-4730-42b1-8cc5-4bacbbe169e3](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=1366381647/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2FsSWigj9sPKIWoi3YnYTJ%2F06-2-558x161.jpg%3Falt%3Dmedia%26token%3Ddf46a7ef-4730-42b1-8cc5-4bacbbe169e3)
 
 #### 06-카드 3단
 
