@@ -104,11 +104,13 @@ v.2 11번 구분
 
 #### 01-공통 리소스: 로고
 
+<figure><img src=".gitbook/assets/01-logo-660x105.jpg" alt=""><figcaption></figcaption></figure>
+
 <details>
 
 <summary>이미지 URL</summary>
 
-
+[https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=1340640983/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252Fgp7S72dr385pIGmStIEy%252F01-logo-660x105.jpg%3Falt%3Dmedia%26token%3D6013dff8-0b34-449a-b91e-788e430902cc](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=1340640983/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2Fgp7S72dr385pIGmStIEy%2F01-logo-660x105.jpg%3Falt%3Dmedia%26token%3D6013dff8-0b34-449a-b91e-788e430902cc)
 
 </details>
 
