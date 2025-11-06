@@ -17,6 +17,7 @@
   * [6. Kia Certified Green Store : Operation​](content-library/content-library/6.-kia-certified-green-store-operation.md)
   * [7. Kia Certified Green Store : Customer Experience​](content-library/content-library/7.-kia-certified-green-store-customer-experience.md)
   * [8. Tasman](content-library/content-library/8.-tasman.md)
+  * [9. How to Videos](content-library/content-library/9.-how-to-videos.md)
 * [Common Resources](content-library/common-resources.md)
 
 ## Guide
