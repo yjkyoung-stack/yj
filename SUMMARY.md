@@ -41,4 +41,4 @@
 ***
 
 * [Newsletter img](newsletter-img.md)
-* [11 prompt](11-prompt.md)
+* [Newsletter-Ownership](newsletter-ownership.md)

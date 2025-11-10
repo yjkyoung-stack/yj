@@ -88,7 +88,7 @@ hidden: true
 
 09
 
-<figure><img src=".gitbook/assets/09.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/09 (2).jpg" alt=""><figcaption></figcaption></figure>
 
 10
 
@@ -96,11 +96,11 @@ hidden: true
 
 11
 
-<figure><img src=".gitbook/assets/11 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/11 (1) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 12
 
-<figure><img src=".gitbook/assets/12 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/12 (1) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 13
 
@@ -116,7 +116,7 @@ hidden: true
 
 06
 
-<div><figure><img src=".gitbook/assets/06-1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-3.jpg" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src=".gitbook/assets/06-1 (3).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-2 (3).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-3.jpg" alt=""><figcaption></figcaption></figure></div>
 
 
 
@@ -129,14 +129,6 @@ hidden: true
 ## 1-4. 마케팅 뉴스레터: 9월 발행
 
 <div><figure><img src=".gitbook/assets/newsletter09-01.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/newsletter09-02.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/newsletter09-03.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/newsletter09-04.jpg" alt=""><figcaption></figcaption></figure></div>
-
-## Test
-
-<div><figure><img src=".gitbook/assets/test-01-logo.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/test-02-img-1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/test-02-img-2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/test-03-text.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/test-04-button.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/test-05-content.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/test-06-email.jpg" alt=""><figcaption></figcaption></figure></div>
-
-## Test - Img조각(2배)
-
-<div><figure><img src=".gitbook/assets/01-logo (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/02-img-1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/03-text (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/04-button.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/05-title.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-1-card.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-2-card.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-3-card.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/07-margin.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/08-1-card.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/08-2-card (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/09-margin.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/10-1-text.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/10-2-facebook (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/10-3-instagram (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/10-4-x (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/11.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/12-1 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/12-2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/12-3 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/12-4.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/13 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/07-margin-1.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ## Newsletter Test - 다크모드 (660px @2배수 추출)&#x20;
 
@@ -212,85 +204,7 @@ hidden: true
 
 </details>
 
-#### 06-카드 1단
 
-<div><figure><img src=".gitbook/assets/06-1-36x161.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-2-558x161.jpg" alt=""><figcaption></figcaption></figure></div>
-
-좌, 우측 여백 36x161&#x20;
-
-[https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-78325955/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252Fxc7BAKo048Fo0TNlifek%252F06-1-36x161.jpg%3Falt%3Dmedia%26token%3Da900236d-dabf-497f-ab31-86b03696e12e](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-78325955/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2Fxc7BAKo048Fo0TNlifek%2F06-1-36x161.jpg%3Falt%3Dmedia%26token%3Da900236d-dabf-497f-ab31-86b03696e12e)
-
-Image 558x161
-
-[https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=1366381647/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252FsSWigj9sPKIWoi3YnYTJ%252F06-2-558x161.jpg%3Falt%3Dmedia%26token%3Ddf46a7ef-4730-42b1-8cc5-4bacbbe169e3](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=1366381647/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2FsSWigj9sPKIWoi3YnYTJ%2F06-2-558x161.jpg%3Falt%3Dmedia%26token%3Ddf46a7ef-4730-42b1-8cc5-4bacbbe169e3)
-
-#### 06-카드 3단
-
-<div><figure><img src=".gitbook/assets/06-1 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-2-card (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-3 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-4-card.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-5.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-6-card.jpg" alt=""><figcaption></figcaption></figure></div>
-
-<details>
-
-<summary><strong>공통 여백 URL (좌측부터)</strong></summary>
-
-* 36px 마진값 좌, 우측 동일
-  * [https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-2107407931/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252F8duxiYCdwp7UKYZHudaH%252F06-1.jpg%3Falt%3Dmedia%26token%3D190e2b8c-3983-440a-8388-c189ac990fdb](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-2107407931/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2F8duxiYCdwp7UKYZHudaH%2F06-1.jpg%3Falt%3Dmedia%26token%3D190e2b8c-3983-440a-8388-c189ac990fdb)
-* 16px 마진값 (1번, 2번 카드 사이)
-  * [https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-1698284062/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252Fafx4P3aUxSHckGw2puCm%252F06-3.jpg%3Falt%3Dmedia%26token%3D8eac93a3-0c0c-415c-87cc-2514bb9bf0e7](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-1698284062/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2Fafx4P3aUxSHckGw2puCm%2F06-3.jpg%3Falt%3Dmedia%26token%3D8eac93a3-0c0c-415c-87cc-2514bb9bf0e7)
-* 17px 마진값 (2번, 3번 카드 사이)
-  * [https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=2071834983/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252FT2PO0u5gP6QauUom1Bht%252F06-5.jpg%3Falt%3Dmedia%26token%3D7e5092f5-96d7-4107-a094-ef2938dd256c](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=2071834983/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2FT2PO0u5gP6QauUom1Bht%2F06-5.jpg%3Falt%3Dmedia%26token%3D7e5092f5-96d7-4107-a094-ef2938dd256c)
-
-</details>
-
-<details>
-
-<summary>Test 카드 3장 URL (좌측부터) 185x265</summary>
-
-* [https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=1242208388/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252FFfDrLJ1NQwrZP0z3G9Uz%252F06-2-card.jpg%3Falt%3Dmedia%26token%3Dee7c0833-d8b5-4b45-b3ca-54305df42579](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=1242208388/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2FFfDrLJ1NQwrZP0z3G9Uz%2F06-2-card.jpg%3Falt%3Dmedia%26token%3Dee7c0833-d8b5-4b45-b3ca-54305df42579)
-* [https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=2001299618/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252FcSrJoa5CwjbpjeQNsFGu%252F06-4-card.jpg%3Falt%3Dmedia%26token%3D500f1cf8-c6c4-4ef4-a14f-8ce5f91120d0](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=2001299618/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2FcSrJoa5CwjbpjeQNsFGu%2F06-4-card.jpg%3Falt%3Dmedia%26token%3D500f1cf8-c6c4-4ef4-a14f-8ce5f91120d0)
-* [https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-132792619/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252FTSap7ogXWFoEuBsMAc0i%252F06-6-card.jpg%3Falt%3Dmedia%26token%3D12912041-beba-407c-89d8-028d3d8bd6e2](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-132792619/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2FTSap7ogXWFoEuBsMAc0i%2F06-6-card.jpg%3Falt%3Dmedia%26token%3D12912041-beba-407c-89d8-028d3d8bd6e2)
-
-</details>
-
-#### 07-공통 리소스: 여백
-
-<details>
-
-<summary>URL</summary>
-
-<figure><img src=".gitbook/assets/07.jpg" alt=""><figcaption></figcaption></figure>
-
-[https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=1457937720/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252FwTSA7cbyOACDrtqhahvq%252F07.jpg%3Falt%3Dmedia%26token%3D0f550b33-5b88-4a0c-9c95-74f911bf2442](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=1457937720/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2FwTSA7cbyOACDrtqhahvq%2F07.jpg%3Falt%3Dmedia%26token%3D0f550b33-5b88-4a0c-9c95-74f911bf2442)
-
-</details>
-
-#### 08-카드 2단
-
-<div><figure><img src=".gitbook/assets/08-1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/08-2-card.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/08-3.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/08-4-card.jpg" alt=""><figcaption></figcaption></figure></div>
-
-<details>
-
-<summary>공통 여백 URL (좌측부터)</summary>
-
-* 마진값 좌, 우측 동일 36x161
-  * [https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=183154712/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252FykvU6JA4joksHopFZaSM%252F08-1.jpg%3Falt%3Dmedia%26token%3D8e5331ca-8524-451c-9efa-02c2650c24e3](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=183154712/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2FykvU6JA4joksHopFZaSM%2F08-1.jpg%3Falt%3Dmedia%26token%3D8e5331ca-8524-451c-9efa-02c2650c24e3)
-
-
-
-* 마진값 (1번, 2번 카드 사이) 16px&#x20;
-  * [https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-1342111426/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252FzvY7DxEWTiRnVWDzu0s6%252F08-3.jpg%3Falt%3Dmedia%26token%3D85627651-a8a1-42b3-8b4c-6eee4ba93da8](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-1342111426/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2FzvY7DxEWTiRnVWDzu0s6%2F08-3.jpg%3Falt%3Dmedia%26token%3D85627651-a8a1-42b3-8b4c-6eee4ba93da8)
-
-</details>
-
-<details>
-
-<summary>Test 카드 2장 URL (좌측부터) 286x161</summary>
-
-* [https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-843044945/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252FPznZ5brBhsfBA86bf0hA%252F08-2-card.jpg%3Falt%3Dmedia%26token%3D2ef90a48-6278-457b-aaee-30bb7e152011](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-843044945/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2FPznZ5brBhsfBA86bf0hA%2F08-2-card.jpg%3Falt%3Dmedia%26token%3D2ef90a48-6278-457b-aaee-30bb7e152011)
-* [https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-1482365473/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252FyRyTSY6jhnP20HmY0793%252F08-4-card.jpg%3Falt%3Dmedia%26token%3D1787de7b-ef7f-4d9c-9477-59339f255d85](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-1482365473/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2FyRyTSY6jhnP20HmY0793%2F08-4-card.jpg%3Falt%3Dmedia%26token%3D1787de7b-ef7f-4d9c-9477-59339f255d85)
-
-</details>
-
-####
 
 #### 09-공통 리소스: 구분선
 
@@ -340,36 +254,7 @@ Image 558x161
 
 </details>
 
-#### 12-공통 리소스: Email
 
-<div><figure><img src=".gitbook/assets/12-1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/12-2-email.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/12-3.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/12-4-email.jpg" alt=""><figcaption></figcaption></figure></div>
-
-<details>
-
-<summary>URL (좌측부터) </summary>
-
-* 마진값 좌, 우측 동일 36x98
-  * [https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=1084812966/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252Fw1AHlCyGfAc6Ho7xZED8%252F12-1.jpg%3Falt%3Dmedia%26token%3D6999d150-b293-4111-bde9-b9c29b6a05c6](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=1084812966/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2Fw1AHlCyGfAc6Ho7xZED8%2F12-1.jpg%3Falt%3Dmedia%26token%3D6999d150-b293-4111-bde9-b9c29b6a05c6)
-* Taiwon Park 카드
-  * [https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-1255899121/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252F7MyHj0e78rM4cLhRdDPo%252F12-2-email.jpg%3Falt%3Dmedia%26token%3D71b46be8-8925-4c31-a44d-9a87e5b7711f](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-1255899121/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2F7MyHj0e78rM4cLhRdDPo%2F12-2-email.jpg%3Falt%3Dmedia%26token%3D71b46be8-8925-4c31-a44d-9a87e5b7711f)
-* 카드 사이 여백
-  * [https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-293280300/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252FITSS1twwe1XEnHgRITxv%252F12-3.jpg%3Falt%3Dmedia%26token%3D694fd79f-1767-4dee-8860-664da5565e61](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-293280300/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2FITSS1twwe1XEnHgRITxv%2F12-3.jpg%3Falt%3Dmedia%26token%3D694fd79f-1767-4dee-8860-664da5565e61)
-* Sara Kim 카드
-  * [https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=132195475/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252Fu9K6IbZouIyu5apSGPGU%252F12-4-email.jpg%3Falt%3Dmedia%26token%3Deabbfe55-90ad-463d-b430-38728848c0b3](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=132195475/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2Fu9K6IbZouIyu5apSGPGU%2F12-4-email.jpg%3Falt%3Dmedia%26token%3Deabbfe55-90ad-463d-b430-38728848c0b3)
-
-</details>
-
-#### 13-공통 리소스
-
-<figure><img src=".gitbook/assets/13.jpg" alt=""><figcaption></figcaption></figure>
-
-<details>
-
-<summary>URL</summary>
-
-[https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-546826000/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252FxhLuDjJBtsulqqEvLmol%252F13.jpg%3Falt%3Dmedia%26token%3D8cd1cea5-8800-4eba-a49e-93fa57815e4a](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-546826000/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2FxhLuDjJBtsulqqEvLmol%2F13.jpg%3Falt%3Dmedia%26token%3D8cd1cea5-8800-4eba-a49e-93fa57815e4a)
-
-</details>
 
 ## 2. Owners 업데이트 뉴스레터
 
@@ -379,23 +264,23 @@ Image 558x161
 
 01
 
-<figure><img src=".gitbook/assets/01.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/01 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 02
 
-<figure><img src=".gitbook/assets/02.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/02 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 03
 
-<figure><img src=".gitbook/assets/03.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/03 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 04
 
-<figure><img src=".gitbook/assets/04.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/04 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 05
 
-<div><figure><img src=".gitbook/assets/05-1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/05-2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/05-3.jpg" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src=".gitbook/assets/05-1 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/05-2 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/05-3.jpg" alt=""><figcaption></figcaption></figure></div>
 
 06
 
