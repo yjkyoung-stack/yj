@@ -4,7 +4,43 @@ hidden: true
 
 # Newsletter img
 
-## 5개 버전
+## 이미지 슬라이스 최소화 버전(2x)
+
+04
+
+<figure><img src=".gitbook/assets/04.png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+## ~~이미지 슬라이스 최소화 버전(2x) - 유진~~
+
+04
+
+<figure><img src=".gitbook/assets/04 (2).jpg" alt=""><figcaption></figcaption></figure>
+
+06
+
+<div><figure><img src=".gitbook/assets/06-1 (2).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-2 (2).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-3 (2).jpg" alt=""><figcaption></figcaption></figure></div>
+
+08
+
+<div><figure><img src=".gitbook/assets/08-1 (3).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/08-2 (3).jpg" alt=""><figcaption></figcaption></figure></div>
+
+10
+
+<div><figure><img src=".gitbook/assets/10-1 (2).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/10-2 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/10-3 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/10-4 (1).jpg" alt=""><figcaption></figcaption></figure></div>
+
+13
+
+<div><figure><img src=".gitbook/assets/13-1 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/13-2 (1).jpg" alt=""><figcaption></figcaption></figure></div>
+
+## 통이미지
+
+<figure><img src=".gitbook/assets/newsletter-whole (1).jpg" alt=""><figcaption></figcaption></figure>
+
+## 1-1. 마케팅 뉴스레터: 5개 버전 템플릿
 
 #### 01
 
@@ -74,11 +110,9 @@ hidden: true
 
 <figure><img src=".gitbook/assets/14.jpg" alt=""><figcaption></figcaption></figure>
 
-<div><figure><img src=".gitbook/assets/06-2 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-4.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-6.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/08-2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/08-4.jpg" alt=""><figcaption></figcaption></figure></div>
-
 ***
 
-## 1개 버전
+## 1-2. 마케팅 뉴스레터: 1개 버전 템플릿
 
 06
 
@@ -88,11 +122,11 @@ hidden: true
 
 ***
 
-## 10월 발행
+## 1-3. 마케팅 뉴스레터: 10월 발행
 
 <div><figure><img src=".gitbook/assets/newsletter-10-01 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/newsletter-10-02 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/newsletter-10-03 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/newsletter-10-04 (2).jpg" alt=""><figcaption></figcaption></figure></div>
 
-## 9월 발행
+## 1-4. 마케팅 뉴스레터: 9월 발행
 
 <div><figure><img src=".gitbook/assets/newsletter09-01.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/newsletter09-02.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/newsletter09-03.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/newsletter09-04.jpg" alt=""><figcaption></figcaption></figure></div>
 
@@ -103,12 +137,6 @@ hidden: true
 ## Test - Img조각(2배)
 
 <div><figure><img src=".gitbook/assets/01-logo (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/02-img-1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/03-text (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/04-button.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/05-title.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-1-card.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-2-card.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-3-card.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/07-margin.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/08-1-card.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/08-2-card (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/09-margin.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/10-1-text.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/10-2-facebook (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/10-3-instagram (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/10-4-x (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/11.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/12-1 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/12-2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/12-3 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/12-4.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/13 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/07-margin-1.jpg" alt=""><figcaption></figcaption></figure></div>
-
-v.2 11번 구분
-
-<div><figure><img src=".gitbook/assets/Component 53 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/Group 807.jpg" alt=""><figcaption></figcaption></figure></div>
-
-
 
 ## Newsletter Test - 다크모드 (660px @2배수 추출)&#x20;
 
@@ -342,6 +370,46 @@ Image 558x161
 [https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-546826000/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252FxhLuDjJBtsulqqEvLmol%252F13.jpg%3Falt%3Dmedia%26token%3D8cd1cea5-8800-4eba-a49e-93fa57815e4a](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-546826000/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2FxhLuDjJBtsulqqEvLmol%2F13.jpg%3Falt%3Dmedia%26token%3D8cd1cea5-8800-4eba-a49e-93fa57815e4a)
 
 </details>
+
+## 2. Owners 업데이트 뉴스레터
+
+
+
+## 3. PV5 How-to 업데이트 뉴스레터
+
+01
+
+<figure><img src=".gitbook/assets/01.jpg" alt=""><figcaption></figcaption></figure>
+
+02
+
+<figure><img src=".gitbook/assets/02.jpg" alt=""><figcaption></figcaption></figure>
+
+03
+
+<figure><img src=".gitbook/assets/03.jpg" alt=""><figcaption></figcaption></figure>
+
+04
+
+<figure><img src=".gitbook/assets/04.jpg" alt=""><figcaption></figcaption></figure>
+
+05
+
+<div><figure><img src=".gitbook/assets/05-1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/05-2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/05-3.jpg" alt=""><figcaption></figcaption></figure></div>
+
+06
+
+<figure><img src=".gitbook/assets/06.jpg" alt=""><figcaption></figcaption></figure>
+
+07
+
+<figure><img src=".gitbook/assets/07 (2).jpg" alt=""><figcaption></figcaption></figure>
+
+08
+
+<div><figure><img src=".gitbook/assets/08-1 (2).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/08-2 (2).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/08-3 (2).jpg" alt=""><figcaption></figcaption></figure></div>
+
+
 
 ## 251106-ver01-보경
 
