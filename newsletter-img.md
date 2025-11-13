@@ -4,6 +4,14 @@ hidden: true
 
 # Newsletter img
 
+## 뉴스레터 3개 버전
+
+<div><figure><img src=".gitbook/assets/03 (2).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/07-1 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/07-2 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/07-3.jpg" alt=""><figcaption></figcaption></figure></div>
+
+
+
+
+
 ## 이미지 슬라이스 최소화 버전(2x)
 
 04
@@ -35,10 +43,6 @@ hidden: true
 13
 
 <div><figure><img src=".gitbook/assets/13-1 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/13-2 (1).jpg" alt=""><figcaption></figcaption></figure></div>
-
-## 통이미지
-
-<figure><img src=".gitbook/assets/newsletter-whole (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ## 1-1. 마케팅 뉴스레터: 5개 버전 템플릿
 
