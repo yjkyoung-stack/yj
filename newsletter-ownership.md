@@ -24,6 +24,12 @@ layout:
 
 <div><figure><img src=".gitbook/assets/08 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/09 (1).jpg" alt=""><figcaption></figcaption></figure></div>
 
+<div><figure><img src=".gitbook/assets/10 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/12 (2).jpg" alt=""><figcaption></figcaption></figure></div>
+
+
+
+
+
 최종버전 이미지 SRC
 
 01 660x726
