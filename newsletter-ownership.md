@@ -32,13 +32,15 @@ layout:
 
 최종버전 이미지 SRC
 
+최종버전 이미지 SRC
+
 01 660x726
 
 [https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-707199909/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252Ff8WW2kzgUClFKzveqK6B%252F01.jpg%3Falt%3Dmedia%26token%3D4fb36256-fef7-4d9d-9cd0-0c684a85d9f5](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-707199909/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2Ff8WW2kzgUClFKzveqK6B%2F01.jpg%3Falt%3Dmedia%26token%3D4fb36256-fef7-4d9d-9cd0-0c684a85d9f5)
 
-02 660x148
+02 660x120
 
-[https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-1541200692/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252FxjMn32Ho0DEmk61nwSjH%252F02.jpg%3Falt%3Dmedia%26token%3D9d5bfb77-9883-4dfd-94ca-511e05703e17](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-1541200692/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2FxjMn32Ho0DEmk61nwSjH%2F02.jpg%3Falt%3Dmedia%26token%3D9d5bfb77-9883-4dfd-94ca-511e05703e17)
+[https://images.gitbook.com/\_\_img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-1968197854/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fw5lfZjNS4U8oixK11ksH%252Fuploads%252FrtCTVf8uMy8EivA0pVOs%252F02.jpg%3Falt%3Dmedia%26token%3Dcc8b123a-fea3-44d4-b7f1-4ecbc3fe9416](https://images.gitbook.com/__img/dpr=2,width=2400,onerror=redirect,format=auto,signature=-1968197854/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2Fw5lfZjNS4U8oixK11ksH%2Fuploads%2FrtCTVf8uMy8EivA0pVOs%2F02.jpg%3Falt%3Dmedia%26token%3Dcc8b123a-fea3-44d4-b7f1-4ecbc3fe9416)
 
 03 660x40
 
