@@ -18,7 +18,7 @@
   * [7. Kia Certified Green Store : Customer Experience​](content-library/content-library/7.-kia-certified-green-store-customer-experience.md)
   * [8. Tasman](content-library/content-library/8.-tasman.md)
   * [9. How to Videos](content-library/content-library/9.-how-to-videos.md)
-  * [10. Introducing the Digital Manual Website](content-library/content-library/10.-introducing-the-digital-manual-website.md)
+  * [10. Introducing the Digital Owner's Manual](content-library/content-library/10.-introducing-the-digital-owners-manual.md)
 * [Common Resources](content-library/common-resources.md)
 
 ## Guide
