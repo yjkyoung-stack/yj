@@ -20,6 +20,8 @@
   * [9. How-to Videos](content-library/content-library/9.-how-to-videos.md)
   * [10. Introducing the Digital Owner's Manual](content-library/content-library/10.-introducing-the-digital-owners-manual.md)
   * [11. Kia Genuine Parts](content-library/content-library/11.-kia-genuine-parts.md)
+  * [12. Eco-friendly Materials](content-library/content-library/12.-eco-friendly-materials.md)
+  * [13. Kia Genuine Parts Made From Eco-friendly ​Materials](content-library/content-library/13.-kia-genuine-parts-made-from-eco-friendly-materials.md)
 * [Common Resources](content-library/common-resources.md)
 
 ## Guide
