@@ -4,6 +4,16 @@ hidden: true
 
 # Newsletter img
 
+<details>
+
+<summary>2026 1월 뉴스레터 에셋</summary>
+
+<div><figure><img src=".gitbook/assets/2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/3.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/6-1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/6-2.jpg" alt=""><figcaption></figcaption></figure></div>
+
+
+
+</details>
+
 ## 뉴스레터 3개 버전
 
 <div><figure><img src=".gitbook/assets/03 (2).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/07-1 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/07-2 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/07-3.jpg" alt=""><figcaption></figcaption></figure></div>
