@@ -32,3 +32,7 @@
     * [Image](guide/undefined-1/x/image.md)
     * [Copy](guide/undefined-1/x/copy.md)
 * [기아 커뮤니케이션 스타일 가이드](guide/undefined-2.md)
+
+***
+
+* [뉴스레터 테스트](undefined.md)

@@ -2,7 +2,7 @@
 
 KHQ는 오너십 프로그램 인지도 향상, 판매 확대, 그리고 홈페이지 유입을 위해 SNS 콘텐츠를 발행합니다.&#x20;
 
-[콘텐츠 라이브러리](broken-reference)에서는 콘텐츠별 이미지와 텍스트, 예시 게시물을 쉽게 확인할 수 있으며, [운영 가이드](broken-reference)와 [제작 가이드](broken-reference)를 참고해 각 로컬 상황에 맞게 손쉽게 콘텐츠를 제작하고 활용하실 수 있습니다.
+[콘텐츠 라이브러리](/broken/pages/sMouwCXPMOCx9C0c3VPX)에서는 콘텐츠별 이미지와 텍스트, 예시 게시물을 쉽게 확인할 수 있으며, [운영 가이드](/broken/pages/AzrEs6bee4HulYsPriFn)와 [제작 가이드](/broken/pages/scPRmf2UHNygzfDCY7Iu)를 참고해 각 로컬 상황에 맞게 손쉽게 콘텐츠를 제작하고 활용하실 수 있습니다.
 
 ***
 
@@ -11,7 +11,7 @@ KHQ는 오너십 프로그램 인지도 향상, 판매 확대, 그리고 홈페�
 <table><thead><tr><th width="199.782470703125">구분</th><th>제공 형식</th><th data-hidden></th></tr></thead><tbody><tr><td>이미지</td><td>클린버전, 텍스트 삽입 버전</td><td></td></tr><tr><td>텍스트</td><td>Hook, Body, CTA, Hashtag 포함</td><td></td></tr><tr><td>PSD (선택)</td><td>이미지 내 텍스트 번역·편집용</td><td></td></tr></tbody></table>
 
 {% hint style="warning" %}
-콘텐츠 제작 전 반드시 [제작 가이드](broken-reference)를 확인하고, 지침에 따라 로컬화를 진행해 주세요.
+콘텐츠 제작 전 반드시 [제작 가이드](/broken/pages/scPRmf2UHNygzfDCY7Iu)를 확인하고, 지침에 따라 로컬화를 진행해 주세요.
 {% endhint %}
 
 

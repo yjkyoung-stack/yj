@@ -5,7 +5,7 @@
 
 ### 2025.08
 
-<table><thead><tr><th width="599.86083984375">콘텐츠</th><th>게시일</th></tr></thead><tbody><tr><td><ol><li><a href="broken-reference">Warranty</a></li></ol></td><td>25.09.08</td></tr><tr><td><ol start="2"><li><a href="broken-reference">Extended Warranty </a></li></ol></td><td>25.09.08</td></tr><tr><td><ol start="3"><li><a href="broken-reference">Kia Warranty Book App</a></li></ol></td><td>25.09.08</td></tr><tr><td><ol start="4"><li><a href="broken-reference">Roadside Assistance</a></li></ol></td><td>25.09.08</td></tr></tbody></table>
+<table><thead><tr><th width="599.86083984375">콘텐츠</th><th>게시일</th></tr></thead><tbody><tr><td><ol><li><a href="/broken/pages/i73g4LZQanoLj7XtSO18">Warranty</a></li></ol></td><td>25.09.08</td></tr><tr><td><ol start="2"><li><a href="/broken/pages/DlbXixlSvtWZo8lTnhlw">Extended Warranty </a></li></ol></td><td>25.09.08</td></tr><tr><td><ol start="3"><li><a href="/broken/pages/xaxFqDv1bNFyC0zXo2Tw">Kia Warranty Book App</a></li></ol></td><td>25.09.08</td></tr><tr><td><ol start="4"><li><a href="/broken/pages/AmAvt6BqYXHgPl4sfRA7">Roadside Assistance</a></li></ol></td><td>25.09.08</td></tr></tbody></table>
 
 ### 2025.09
 

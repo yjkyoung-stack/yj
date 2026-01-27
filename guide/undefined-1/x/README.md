@@ -10,7 +10,7 @@ icon: square-x-twitter
 
 ### 콘텐츠 구성별 제작 가이드 바로가기
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><i class="fa-image">:image:</i> <br>Image</td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><i class="fa-text">:text:</i> <br>Copy</td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><i class="fa-image">:image:</i> <br>Image</td><td><a href="/broken/pages/mMqXhl9GJkIaKOvgWSnm">Broken link</a></td></tr><tr><td><i class="fa-text">:text:</i> <br>Copy</td><td><a href="/broken/pages/z6ripn9R8Qx7eNNFnhSw">Broken link</a></td></tr></tbody></table>
 
 
 
