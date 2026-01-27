@@ -6,6 +6,16 @@ hidden: true
 
 <details>
 
+<summary>2026 1월 gif</summary>
+
+<figure><img src=".gitbook/assets/0513_SV_Unveiling_endframe_2-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
+
+
+
+</details>
+
+<details>
+
 <summary>2026 1월 뉴스레터 에셋</summary>
 
 <div><figure><img src=".gitbook/assets/2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/3.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/6-1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/6-2.jpg" alt=""><figcaption></figcaption></figure></div>
