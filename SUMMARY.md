@@ -30,6 +30,7 @@
   * [19. PBV-specific Service](content-library/content-library/19.-pbv-specific-service.md)
   * [(삭제) 12. Eco-friendly Materials](content-library/content-library/12.-eco-friendly-materials.md)
 * [Common Resources](content-library/common-resources.md)
+* [Email Templates & Icon Assets](content-library/email-templates-and-icon-assets.md)
 
 ## Guide
 
