@@ -8,7 +8,8 @@ description: >-
 
 ### Email Templates
 
-Three service email templates are available for key communication scenarios. Each template is built from reusable components and can be adapted to suit local needs.
+Three service email templates are available for key communication scenarios. \
+Each template is built from reusable components and can be adapted to suit local needs.
 
 * Service Booking Confirmation
 * Service Promotion
