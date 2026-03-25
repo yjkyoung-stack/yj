@@ -1,5 +1,7 @@
 ---
-description: Email templates and icon assets for Kia ownership communication.
+description: >-
+  KHQ provides email templates and icon assets to support ownership
+  communication.
 hidden: true
 ---
 
@@ -7,7 +9,8 @@ hidden: true
 
 ### Email Templates
 
-Three service email templates are built from reusable components. Use the components to adapt and create layouts as needed.
+Three service email templates are available for key communication scenarios.\
+Each template is built from reusable components, allowing flexible layout adjustments to suit local needs.
 
 1. Service Booking Confirmation
 2. Service Promotion
@@ -15,11 +18,12 @@ Three service email templates are built from reusable components. Use the compon
 
 Email Templates (Figma)
 
-<figure><img src="../.gitbook/assets/1-PC (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1-PC.png" alt=""><figcaption></figcaption></figure>
 
 ### Icon Assets
 
-Icon assets designed for Kia ownership communication. Use them consistently across all related materials.
+The icon set is designed for ownership-related communication.\
+Use the icons consistently across materials to maintain a unified visual style.
 
 Icon Assets (SVG / PNG)
 
