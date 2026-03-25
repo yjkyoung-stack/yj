@@ -35,7 +35,7 @@ Select and apply icons based on your content and layout needs.
 
 [Download Icon Assets (SVG, PNG)](https://google.com)
 
-<figure><img src="../.gitbook/assets/icon.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ㅇ.png" alt=""><figcaption></figcaption></figure>
 
 Follow these guidelines to ensure visibility and readability:
 
