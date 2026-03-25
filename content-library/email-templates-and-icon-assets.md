@@ -16,7 +16,7 @@ Each template is built from reusable components, allowing flexible layout adjust
 2. Service Promotion
 3. Vehicle Inspection Results
 
-Email Templates (Figma)
+[Download Email Templates (Figma)](https://google.com)
 
 <figure><img src="../.gitbook/assets/1-PC.png" alt=""><figcaption></figcaption></figure>
 
@@ -25,6 +25,6 @@ Email Templates (Figma)
 The icon set is designed for ownership-related communication.\
 Use the icons consistently across materials to maintain a unified visual style.
 
-Icon Assets (SVG / PNG)
+[Download Icon Assets (SVG, PNG)](https://google.com)
 
 <figure><img src="../.gitbook/assets/icon.png" alt=""><figcaption></figcaption></figure>
