@@ -9,12 +9,11 @@ hidden: true
 
 ### Email Templates
 
-Three service email templates are available for key communication scenarios.\
-Each template is built from reusable components and can be adapted to suit local needs.
+Three service email templates are available for key communication scenarios. Each template is built from reusable components and can be adapted to suit local needs.
 
-1. Service Booking Confirmation
-2. Service Promotion
-3. Vehicle Inspection Results
+* Service Booking Confirmation
+* Service Promotion
+* Vehicle Inspection Results
 
 [Download Email Templates (Figma)](https://google.com)
 
@@ -31,8 +30,7 @@ Follow these guidelines to ensure flexibility and consistency:
 
 ### Icon Assets
 
-The icon set is designed for flexible use across different contexts.\
-Select and apply icons based on your content and layout needs.
+The icon set is designed for flexible use across different contexts. Select and apply icons based on your content and layout needs.
 
 [Download Icon Assets (SVG, PNG)](https://google.com)
 
