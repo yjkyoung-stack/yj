@@ -40,6 +40,6 @@ Select and apply icons based on your content and layout needs.
 Follow these guidelines to ensure visibility and readability:
 
 * **Minimum Size**\
-  Use 32px or larger. For 24px or below, use simplified icons.
+  32px is the recommended minimum size. For 24px or below, use simplified icons.&#x20;
 * **Clear Space**\
   Keep at least 10–15% of the icon size as clear space around the icon.
