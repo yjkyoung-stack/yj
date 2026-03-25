@@ -2,7 +2,6 @@
 description: >-
   KHQ provides email templates and icon assets to support ownership
   communication.
-hidden: true
 ---
 
 # Email Templates & Icon Assets
