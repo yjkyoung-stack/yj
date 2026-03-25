@@ -17,7 +17,7 @@ Each template is built from reusable components and can be adapted to suit local
 
 <mark style="color:blue;">Download Email Templates (Figma)</mark>
 
-<figure><img src="../.gitbook/assets/1-PC (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1-PC (3).png" alt=""><figcaption></figcaption></figure>
 
 Follow these guidelines to ensure flexibility and consistency:
 
