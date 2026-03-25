@@ -20,11 +20,27 @@ Each template is built from reusable components and can be adapted to suit local
 
 <figure><img src="../.gitbook/assets/1-PC.png" alt=""><figcaption></figcaption></figure>
 
+Follow these guidelines to ensure flexibility and consistency:
+
+* **Layout Flexibility**\
+  Keep the Hero section at the top and the Footer at the bottom.\
+  Other components can be freely arranged or removed based on content needs.
+* **Localization**\
+  Adapt content, images, and links to suit local needs.\
+  Ensure all information and links are valid in your market.
+
 ### Icon Assets
 
-The icon set is designed for ownership-related communication.\
-Use the icons consistently across materials to maintain a unified visual style.
+The icon set is designed for flexible use across different contexts.\
+Select and apply icons based on your content and layout needs.
 
 [Download Icon Assets (SVG, PNG)](https://google.com)
 
 <figure><img src="../.gitbook/assets/icon.png" alt=""><figcaption></figcaption></figure>
+
+Follow these guidelines to ensure visibility and readability:
+
+* **Minimum Size**\
+  Use 32px or larger. For 24px or below, use simplified icons.
+* **Clear Space**\
+  Keep at least 10–15% of the icon size as clear space around the icon.
