@@ -10,7 +10,7 @@ hidden: true
 ### Email Templates
 
 Three service email templates are available for key communication scenarios.\
-Each template is built from reusable components, allowing flexible layout adjustments to suit local needs.
+Each template is built from reusable components and can be adapted to suit local needs.
 
 1. Service Booking Confirmation
 2. Service Promotion
