@@ -30,7 +30,8 @@ Follow these guidelines to ensure flexibility and consistency:
 
 ### Icon Assets
 
-The icon set is designed for flexible use across different contexts. Select and apply icons based on your content and layout needs.
+The icon set is designed for flexible use across different contexts. \
+Select and apply icons based on your content and layout needs.
 
 [Download Icon Assets (SVG, PNG)](https://google.com)
 
