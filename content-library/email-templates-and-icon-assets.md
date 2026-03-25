@@ -15,7 +15,7 @@ Three service email templates are built from reusable components. Use the compon
 
 Email Templates (Figma)
 
-<figure><img src="../.gitbook/assets/1-PC.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1-PC (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Icon Assets
 
