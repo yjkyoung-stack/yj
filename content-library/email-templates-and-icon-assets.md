@@ -15,7 +15,7 @@ Three service email templates are available for key communication scenarios. Eac
 * Service Promotion
 * Vehicle Inspection Results
 
-[Download Email Templates (Figma)](https://google.com)
+Download Email Templates (Figma)
 
 <figure><img src="../.gitbook/assets/1-PC.png" alt=""><figcaption></figcaption></figure>
 
@@ -33,7 +33,7 @@ Follow these guidelines to ensure flexibility and consistency:
 The icon set is designed for flexible use across different contexts. \
 Select and apply icons based on your content and layout needs.
 
-[Download Icon Assets (SVG, PNG)](https://google.com)
+Download Icon Assets (SVG, PNG)
 
 <figure><img src="../.gitbook/assets/ㅇ.png" alt=""><figcaption></figcaption></figure>
 
