@@ -24,6 +24,14 @@ hidden: true
 
 </details>
 
+<details>
+
+<summary>eDM/아이콘 뉴스레터 에셋</summary>
+
+<div><figure><img src=".gitbook/assets/02_660x376-251106.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/03.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/04_660x40-251106.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/05-title.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-2.jpg" alt=""><figcaption></figcaption></figure></div>
+
+</details>
+
 ## 뉴스레터 3개 버전
 
 <div><figure><img src=".gitbook/assets/03 (2).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/07-1 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/07-2 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/07-3.jpg" alt=""><figcaption></figcaption></figure></div>
@@ -76,7 +84,7 @@ hidden: true
 
 03
 
-<figure><img src=".gitbook/assets/03 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/03 (1) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 04
 
