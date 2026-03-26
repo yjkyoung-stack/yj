@@ -20,7 +20,25 @@ Included templates:
 
 <a href="https://dcm.kia.com/product/contents/contentsForm.do?menuType=detail&#x26;categoryId=0b01e241800c7712&#x26;rObjectId=0901e2418022f395&#x26;pageType=D&#x26;rFolderId=0b01e241800c7712&#x26;hthumbnail=L&#x26;currPageNum=1&#x26;uProjectCode=&#x26;uMarket=&#x26;uDriveType=&#x26;uDoorType=&#x26;uContentType=&#x26;searchType=title&#x26;searchValue=" class="button primary">Download Email Templates (Figma)</a>
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h4>Service Booking Confirmation</h4></td><td>Confirms service appointments and provides customers with clear, timely booking details.</td><td><a href="../.gitbook/assets/02_660x376-251106.jpg">02_660x376-251106.jpg</a></td></tr><tr><td><h4>Service Promotion</h4></td><td>Promotes service offers and campaigns to encourage engagement and timely service visits.</td><td></td></tr><tr><td><h4>Vehicle Inspection Results</h4></td><td>Communicates inspection outcomes and recommended actions in a clear and customer‑friendly format.</td><td></td></tr></tbody></table>
+#### 1. Service Booking Confirmation
+
+Confirms service appointments and provides customers with clear, timely booking details.
+
+<div data-full-width="false"><figure><img src="../.gitbook/assets/1.jpg" alt=""><figcaption></figcaption></figure></div>
+
+#### 2. Service Promotion
+
+Promotes service offers and campaigns to encourage engagement and timely service visits.
+
+<div data-full-width="false"><figure><img src="../.gitbook/assets/2.jpg" alt=""><figcaption></figcaption></figure></div>
+
+#### 3. Vehicle Inspection Results
+
+Communicates inspection outcomes and recommended actions in a clear and customer‑friendly format.
+
+<div data-full-width="false"><figure><img src="../.gitbook/assets/3.jpg" alt=""><figcaption></figcaption></figure></div>
+
+Confirms service appointments and provides customers with clear, timely booking details.
 
 To ensure flexibility and consistency:
 

@@ -18,7 +18,7 @@ hidden: true
 
 <summary>2026 1월 뉴스레터 에셋</summary>
 
-<div><figure><img src=".gitbook/assets/2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/3.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/6-1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/6-2.jpg" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src=".gitbook/assets/2 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/3 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/6-1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/6-2.jpg" alt=""><figcaption></figcaption></figure></div>
 
 
 
