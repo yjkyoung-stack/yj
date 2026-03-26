@@ -15,7 +15,7 @@ Each template is built from reusable components and can be adapted to suit local
 * Service Promotion
 * Vehicle Inspection Results
 
-<mark style="color:blue;">Download Email Templates (Figma)</mark>
+[Download Email Templates (Figma)](https://dcm.kia.com/product/contents/contentsForm.do?menuType=detail\&categoryId=0b01e241800c7712\&rObjectId=0901e2418022f395\&pageType=D\&rFolderId=0b01e241800c7712\&hthumbnail=L\&currPageNum=1\&uProjectCode=\&uMarket=\&uDriveType=\&uDoorType=\&uContentType=\&searchType=title\&searchValue=)
 
 <figure><img src="../.gitbook/assets/1-PC (3).png" alt=""><figcaption></figcaption></figure>
 
@@ -33,9 +33,9 @@ Follow these guidelines to ensure flexibility and consistency:
 The icon set is designed for flexible use across different contexts. \
 Select and apply icons based on your content and layout needs.
 
-<mark style="color:blue;">Download Icon Assets (SVG, PNG)</mark>
+[Download Icon Assets (SVG, PNG)](https://dcm.kia.com/product/contents/contentsForm.do?menuType=detail\&categoryId=0b01e241800c7712\&rObjectId=0901e2418022f396\&pageType=D\&rFolderId=0b01e241800c7712\&hthumbnail=L\&currPageNum=1\&uProjectCode=\&uMarket=\&uDriveType=\&uDoorType=\&uContentType=\&searchType=title\&searchValue=)
 
-<figure><img src="../.gitbook/assets/ㅇ (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ㅇ (4).png" alt=""><figcaption></figcaption></figure>
 
 Follow these guidelines to ensure visibility and readability:
 
