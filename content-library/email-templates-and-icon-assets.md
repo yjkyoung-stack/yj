@@ -51,7 +51,9 @@ Refer to the icons below for flexible use across different contexts. Select and 
 
 <a href="https://dcm.kia.com/product/contents/contentsForm.do?menuType=detail&#x26;categoryId=0b01e241800c7712&#x26;rObjectId=0901e2418022f396&#x26;pageType=D&#x26;rFolderId=0b01e241800c7712&#x26;hthumbnail=L&#x26;currPageNum=1&#x26;uProjectCode=&#x26;uMarket=&#x26;uDriveType=&#x26;uDoorType=&#x26;uContentType=&#x26;searchType=title&#x26;searchValue=" class="button primary">Download Icon Assets (SVG, PNG)</a>
 
-<figure><img src="../.gitbook/assets/ㅇ (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ㅇ (4).png" alt=""><figcaption><p>Full Icon Set</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/sample.jpg" alt=""><figcaption><p>UI Application</p></figcaption></figure>
 
 Follow these guidelines to ensure visibility and readability:
 
