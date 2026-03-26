@@ -2,7 +2,7 @@
 description: >-
   This page brings together email templates and icon assets developed to support
   ownership communication. All resources are ready to use and adaptable to local
-  market needs. This page brings together em
+  market needs.
 ---
 
 # Email Templates & Icon Assets
