@@ -1,21 +1,26 @@
 ---
 description: >-
-  KHQ provides email templates and icon assets to support ownership
-  communication.
+  This page brings together email templates and icon assets developed to support
+  ownership communication. All resources are ready to use and adaptable to local
+  market needs. This page brings together em
 ---
 
 # Email Templates & Icon Assets
 
 ### Email Templates
 
-Three service email templates are available for key communication scenarios. \
-Each template is built from reusable components and can be adapted to suit local needs.
+We have developed the following email templates to address key customer communication needs.\
+Each template is built with reusable components and can be flexibly adapted to local market requirements.
 
-* Service Booking Confirmation
-* Service Promotion
-* Vehicle Inspection Results
+Included templates:
 
-[Download Email Templates (Figma)](https://dcm.kia.com/product/contents/contentsForm.do?menuType=detail\&categoryId=0b01e241800c7712\&rObjectId=0901e2418022f395\&pageType=D\&rFolderId=0b01e241800c7712\&hthumbnail=L\&currPageNum=1\&uProjectCode=\&uMarket=\&uDriveType=\&uDoorType=\&uContentType=\&searchType=title\&searchValue=)
+1. Service Booking Confirmation
+2. Service Promotion
+3. Vehicle Inspection Results
+
+<a href="https://dcm.kia.com/product/contents/contentsForm.do?menuType=detail&#x26;categoryId=0b01e241800c7712&#x26;rObjectId=0901e2418022f395&#x26;pageType=D&#x26;rFolderId=0b01e241800c7712&#x26;hthumbnail=L&#x26;currPageNum=1&#x26;uProjectCode=&#x26;uMarket=&#x26;uDriveType=&#x26;uDoorType=&#x26;uContentType=&#x26;searchType=title&#x26;searchValue=" class="button primary">Download Email Templates (Figma)</a>
+
+#### 1. Service Booking Confirmation
 
 <figure><img src="../.gitbook/assets/1-PC (3).png" alt=""><figcaption></figcaption></figure>
 
