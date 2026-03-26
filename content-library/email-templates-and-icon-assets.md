@@ -38,8 +38,6 @@ Communicates inspection outcomes and recommended actions in a clear and customer
 
 <div data-full-width="false"><figure><img src="../.gitbook/assets/3.jpg" alt=""><figcaption></figcaption></figure></div>
 
-Confirms service appointments and provides customers with clear, timely booking details.
-
 To ensure flexibility and consistency:
 
 1. Keep the Hero section at the top and the Footer at the bottom. Other components can be freely arranged or removed based on content needs.
