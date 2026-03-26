@@ -24,21 +24,16 @@ Included templates:
 
 <figure><img src="../.gitbook/assets/1-PC (3).png" alt=""><figcaption></figcaption></figure>
 
-Follow these guidelines to ensure flexibility and consistency:
+To ensure flexibility and consistency:
 
-* **Layout Flexibility**\
-  Keep the Hero section at the top and the Footer at the bottom.\
-  Other components can be freely arranged or removed based on content needs.
-* **Localization**\
-  Adapt content, images, and links to suit local needs.\
-  Ensure all information and links are valid in your market.
+1. Keep the Hero section at the top and the Footer at the bottom. Other components can be freely arranged or removed based on content needs.
+2. Adapt content, images, and links to suit local needs.   &#x20;Ensure all information and links are valid in your market
 
 ### Icon Assets
 
-The icon set is designed for flexible use across different contexts. \
-Select and apply icons based on your content and layout needs.
+Refer to the icons below for flexible use across different contexts. Select and apply icons based on your content and layout needs.
 
-[Download Icon Assets (SVG, PNG)](https://dcm.kia.com/product/contents/contentsForm.do?menuType=detail\&categoryId=0b01e241800c7712\&rObjectId=0901e2418022f396\&pageType=D\&rFolderId=0b01e241800c7712\&hthumbnail=L\&currPageNum=1\&uProjectCode=\&uMarket=\&uDriveType=\&uDoorType=\&uContentType=\&searchType=title\&searchValue=)
+<a href="https://dcm.kia.com/product/contents/contentsForm.do?menuType=detail&#x26;categoryId=0b01e241800c7712&#x26;rObjectId=0901e2418022f396&#x26;pageType=D&#x26;rFolderId=0b01e241800c7712&#x26;hthumbnail=L&#x26;currPageNum=1&#x26;uProjectCode=&#x26;uMarket=&#x26;uDriveType=&#x26;uDoorType=&#x26;uContentType=&#x26;searchType=title&#x26;searchValue=" class="button primary">Download Icon Assets (SVG, PNG)</a>
 
 <figure><img src="../.gitbook/assets/ㅇ (4).png" alt=""><figcaption></figcaption></figure>
 
