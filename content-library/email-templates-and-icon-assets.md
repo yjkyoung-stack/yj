@@ -53,7 +53,7 @@ Refer to the icons below for flexible use across different contexts. Select and 
 
 <figure><img src="../.gitbook/assets/ㅇ (4).png" alt=""><figcaption><p>Full Icon Set</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/sample.jpg" alt=""><figcaption><p>UI Application</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/sample (1).jpg" alt=""><figcaption><p>UI Application</p></figcaption></figure>
 
 Follow these guidelines to ensure visibility and readability:
 
