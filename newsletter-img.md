@@ -118,6 +118,8 @@ Newsletter
 
 
 
+<figure><img src=".gitbook/assets/kv-01.gif" alt=""><figcaption></figcaption></figure>
+
 
 
 
