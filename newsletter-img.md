@@ -116,6 +116,8 @@ Newsletter
 
 <div><figure><img src=".gitbook/assets/01-1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/01-2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/01-3.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/02-1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/02-2.jpg" alt=""><figcaption></figcaption></figure></div>
 
+<figure><img src=".gitbook/assets/0-0.jpg" alt=""><figcaption></figcaption></figure>
+
 
 
 <figure><img src=".gitbook/assets/kv-01.gif" alt=""><figcaption></figcaption></figure>
