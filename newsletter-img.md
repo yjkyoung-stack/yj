@@ -32,6 +32,22 @@ hidden: true
 
 </details>
 
+<details>
+
+<summary>2026 3월 뉴스레터 에셋</summary>
+
+<div><figure><img src=".gitbook/assets/01-1 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/01-2 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/01-3 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/02-1 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/02-2 (1).jpg" alt=""><figcaption></figcaption></figure></div>
+
+<figure><img src=".gitbook/assets/0-0.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/kv-01.gif" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/kv-01-1.gif" alt=""><figcaption></figcaption></figure>
+
+
+
+</details>
+
 ## 뉴스레터 3개 버전
 
 <div><figure><img src=".gitbook/assets/03 (2).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/07-1 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/07-2 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/07-3.jpg" alt=""><figcaption></figcaption></figure></div>
@@ -115,16 +131,4 @@ hidden: true
 Newsletter
 
 <div><figure><img src=".gitbook/assets/01-1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/01-2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/01-3.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/02-1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/02-2.jpg" alt=""><figcaption></figcaption></figure></div>
-
-<figure><img src=".gitbook/assets/0-0.jpg" alt=""><figcaption></figcaption></figure>
-
-
-
-<figure><img src=".gitbook/assets/kv-01.gif" alt=""><figcaption></figcaption></figure>
-
-
-
-
-
-<figure><img src=".gitbook/assets/kv-01-1.gif" alt=""><figcaption></figcaption></figure>
 
