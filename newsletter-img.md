@@ -28,7 +28,11 @@ hidden: true
 
 <summary>eDM/아이콘 뉴스레터 에셋</summary>
 
-<div><figure><img src=".gitbook/assets/02_660x376-251106 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/03 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/04_660x40-251106 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/05-title.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-2.jpg" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src=".gitbook/assets/02_660x376-251106 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/05-title.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06-2.jpg" alt=""><figcaption></figcaption></figure></div>
+
+<figure><img src=".gitbook/assets/Sequence01_2-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
+
+<div><figure><img src=".gitbook/assets/03 (3).jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/04_660x40-251106 (2).jpg" alt=""><figcaption></figcaption></figure></div>
 
 </details>
 
