@@ -59,3 +59,14 @@ Follow these guidelines to ensure visibility and readability:
   32px is the recommended minimum size. For 24px or below, use simplified icons.&#x20;
 * **Clear Space**\
   Keep at least 10–15% of the icon size as clear space around the icon.
+
+### Newsletter
+
+A newsletter is available to introduce the newly developed email templates and icon assets. It can be used by local markets to promote and communicate these resources.
+
+<a class="button primary">Download Newsletter (HTML)</a>
+
+<a class="button primary">Download Newsletter (PDF)</a>
+
+<figure><img src="../.gitbook/assets/4.jpg" alt=""><figcaption></figcaption></figure>
+
