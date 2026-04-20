@@ -64,9 +64,7 @@ Follow these guidelines to ensure visibility and readability:
 
 A newsletter is available to introduce the newly developed email templates and icon assets. It can be used by local markets to promote and communicate these resources.
 
-<a class="button primary">Download Newsletter (HTML)</a>
-
-<a class="button primary">Download Newsletter (PDF)</a>
+<a href="https://dcm.kia.com/product/contents/contentsForm.do?menuType=detail&#x26;categoryId=0b01e241800c7712&#x26;rObjectId=0901e24180241cfa&#x26;pageType=D&#x26;rFolderId=0b01e241800c7712&#x26;hthumbnail=L&#x26;currPageNum=1&#x26;uProjectCode=&#x26;uMarket=&#x26;uDriveType=&#x26;uDoorType=&#x26;uContentType=&#x26;searchType=title&#x26;searchValue=" class="button primary">Download Newsletter (HTML, PDF)</a>
 
 <figure><img src="../.gitbook/assets/4.jpg" alt=""><figcaption></figcaption></figure>
 
