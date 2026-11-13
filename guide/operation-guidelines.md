@@ -4,6 +4,8 @@ noIndex: true
 
 # Operation Guidelines
 
+<mark style="color:red;">**\* Operation Guidelines will be updated soon.**</mark>
+
 This document explains the workflow and execution procedures for operating Kia Ownership social media content.\
 Please refer to the operational principles before uploading posts.
 

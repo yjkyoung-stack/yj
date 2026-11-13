@@ -1,20 +1,20 @@
 # Image
 
-X uses different aspect ratios depending on where the image or video is displayed.
+X supports various aspect ratios, and the display may vary depending on the post format and viewing environment.
 
 ### Aspect Ratio
 
-To minimize loss of image, we recommend using images sized 1080×1080 px in a 1:1 ratio.
+For best results, we recommend following the guidelines below.
 
-* When posting multiple images, we recommend including text and logos only on the first image.
-* As the aspect ratio varies depending on the number of images posted, make sure to refer to the following table.
+• Up to 4 media items can be uploaded in a single post with a free X account.
 
-| Number of images posted | Aspect Ratio of Displayed Image    |
-| ----------------------- | ---------------------------------- |
-| 1 Image                 | 1:1                                |
-| 2 Images                | 9:10                               |
-| 3 Images                | First image: 9:10 / The rest: 16:9 |
-| 4 Images                | 16:9                               |
+• When uploading multiple media items in a single post, use the same aspect ratio and dimensions across all media to ensure a consistent layout.
+
+| Media type                                  | Aspect Ratio                                                                                                |
+| ------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| Single image                                | 1:1 or 4:5                                                                                                  |
+| Single video                                | 9:16                                                                                                        |
+| Multiple media items (images and/or videos) | <p>1:1, 4:5 or 9:16</p><p>*Same aspect ratio and dimensions recommended for all media in a single post.</p> |
 
 <figure><img src="../../../.gitbook/assets/X-image-ratio.jpg" alt=""><figcaption></figcaption></figure>
 

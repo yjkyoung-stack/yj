@@ -10,7 +10,7 @@ For best results, use the 4:5 portrait ratio (1080 x 1350 px) for feed posts, as
 | ------------------- | ------------------------------- |
 | Home Feed           | 4:5                             |
 | Profile Feed        | 3:4                             |
-| Search & Explore    | 1:1                             |
+| Search & Explore    | 3:4                             |
 
 <figure><img src="../../../.gitbook/assets/IG-image-ratio.jpg" alt=""><figcaption></figcaption></figure>
 

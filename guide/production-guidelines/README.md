@@ -21,11 +21,11 @@ In the guidelines, you can check the recommended formats for each platform, inst
 
 #### Image
 
-<table><thead><tr><th width="146.952880859375"> </th><th>Instagram</th><th>Facebook</th><th>X</th></tr></thead><tbody><tr><td>Aspect Ratio</td><td>4:5</td><td>4:5</td><td>1:1</td></tr><tr><td>Size</td><td>1080 x 1350 pixels</td><td>1080 x 1350 pixels</td><td>1080 x 1080 pixels</td></tr><tr><td>Number of Images</td><td>Up to 4 images</td><td>Up to 4 images</td><td>1 image</td></tr></tbody></table>
+<table><thead><tr><th width="146.952880859375"> </th><th>Instagram</th><th>Facebook</th><th>X</th></tr></thead><tbody><tr><td>Aspect Ratio</td><td>4:5</td><td>4:5</td><td>1:1</td></tr><tr><td>Size</td><td>1080 x 1350 pixels</td><td>1080 x 1350 pixels</td><td>1080 x 1080 pixels</td></tr></tbody></table>
 
 #### Video
 
-<table><thead><tr><th width="146.952880859375"> </th><th>Instagram</th><th>Facebook</th><th>X</th></tr></thead><tbody><tr><td>Aspect Ratio</td><td>9:16</td><td>9:16, 16:9</td><td>1:1, 16:9</td></tr><tr><td>Length</td><td>Up to 3 minutes</td><td>Up to 240 minutes</td><td>Up to 2 minutes 20 seconds</td></tr><tr><td>Subtitles</td><td>Subtitles recommended</td><td>Subtitles recommended</td><td>Subtitles recommended</td></tr></tbody></table>
+<table><thead><tr><th width="146.952880859375"> </th><th>Instagram</th><th>Facebook</th><th>X</th></tr></thead><tbody><tr><td>Aspect Ratio</td><td>9:16</td><td>9:16, 16:9</td><td>1:1, 16:9, 9:16</td></tr><tr><td>Length</td><td>Up to 3 minutes</td><td>Up to 240 minutes</td><td>Up to 2 minutes 20 seconds</td></tr><tr><td>Subtitles</td><td>Subtitles recommended</td><td>Subtitles recommended</td><td>Subtitles recommended</td></tr></tbody></table>
 
 {% hint style="info" %}
 The video thumbnail should be in the same aspect ratio as that of the video.

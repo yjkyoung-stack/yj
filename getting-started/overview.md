@@ -4,9 +4,9 @@ noIndex: true
 
 # Overview
 
-KHQ distributes social media content with the objectives of raising awareness of its ownership program, increasing sales and driving traffic to the website.
+Welcome to the Kia Ownership Marketing Hub. This hub is designed to help you easily access, localize, and utilize social media content to promote Kia Ownership programs in your market.
 
-In the [Content Library](../content-library/content-library/), you can access images, copy and examples of each content. In addition, we have included [operation guidelines](../guide/operation-guidelines.md) and [production guidelines](../guide/production-guidelines/) for your reference so you can easily edit and produce content tailored to local needs.
+Explore the [Content Library](https://app.gitbook.com/s/w5lfZjNS4U8oixK11ksH/content-library) for ready-to-use images, copy, and content examples. When adapting or creating content for your market, refer to the [Operation Guidelines](../guide/operation-guidelines.md) and [Production Guidelines](../guide/production-guidelines/) to ensure consistency while tailoring the content to local needs.
 
 ***
 
