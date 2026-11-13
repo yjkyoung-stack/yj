@@ -15,4 +15,4 @@ Review each guideline before localizing.
 
 ***
 
-All ownership content and assets are available for download via the [DCM](https://dcm.kia.com/hmgsso/loginProcess.do)(Digital Content Management). Should any issues arise regarding access or usage, please contact : [kyuri0323@kia.com](mailto:kyuri0323@kia.com)
+All ownership content and assets are available for download via the [DCM](https://dcm.kia.com/main.do)(Digital Content Management). Should any issues arise regarding access or usage, please contact : [kyuri0323@kia.com](mailto:kyuri0323@kia.com)
