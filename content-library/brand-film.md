@@ -7,7 +7,8 @@ Download the videos you need and publish them across your platforms.
 {% tab title="Main Film" %}
 ### Kia Service | Trust in Every Move
 
-[Download Video - DCM](https://dcm.kia.com/product/contents/contentsForm.do?menuType=detail\&categoryId=0b01e2418024f0fe\&rObjectId=0901e2418024f747)
+* [Download Video - DCM](https://dcm.kia.com/product/contents/contentsForm.do?menuType=detail\&categoryId=0b01e2418024f0fe\&rObjectId=0901e2418024f747)
+* [Download Video (Without text) - DCM](https://dcm.kia.com/product/contents/contentsForm.do?menuType=detail\&categoryId=0b01e2418024f0fe\&rObjectId=0901e2418024f76c)
 
 {% embed url="https://youtu.be/qXf3NfQR-70" %}
 
@@ -28,7 +29,8 @@ Kia Service.
 {% tab title="Episode 01" %}
 ### Episode 01: Appointment
 
-[Download Video - DCM](https://dcm.kia.com/product/contents/contentsForm.do?menuType=detail\&categoryId=0b01e2418024f0fe\&rObjectId=0901e2418024f723)
+* [Download Video - DCM](https://dcm.kia.com/product/contents/contentsForm.do?menuType=detail\&categoryId=0b01e2418024f0fe\&rObjectId=0901e2418024f723)
+* [Download Video (Without text) - DCM](https://dcm.kia.com/product/contents/contentsForm.do?menuType=detail\&categoryId=0b01e2418024f0fe\&rObjectId=0901e2418024f768)
 
 {% embed url="https://www.youtube.com/shorts/_TXjX5b0wag" %}
 
@@ -49,7 +51,8 @@ Trust in Every Move.
 {% tab title="Episode 02" %}
 ### Episode 02: Check-in
 
-[Download Video - DCM](https://dcm.kia.com/product/contents/contentsForm.do?menuType=detail\&categoryId=0b01e2418024f0fe\&rObjectId=0901e2418024f724)
+* [Download Video - DCM](https://dcm.kia.com/product/contents/contentsForm.do?menuType=detail\&categoryId=0b01e2418024f0fe\&rObjectId=0901e2418024f724)
+* [Download Video (Without text) - DCM](https://dcm.kia.com/product/contents/contentsForm.do?menuType=detail\&categoryId=0b01e2418024f0fe\&rObjectId=0901e2418024f769)
 
 {% embed url="https://www.youtube.com/shorts/FA78Z-cmGUU" %}
 
@@ -70,7 +73,8 @@ Trust in Every Move.
 {% tab title="Episode 03" %}
 ### Episode 03: Service and Check-out
 
-[Download Video - DCM](https://dcm.kia.com/product/contents/contentsForm.do?menuType=detail\&categoryId=0b01e2418024f0fe\&rObjectId=0901e2418024f725)
+* [Download Video - DCM](https://dcm.kia.com/product/contents/contentsForm.do?menuType=detail\&categoryId=0b01e2418024f0fe\&rObjectId=0901e2418024f725)
+* [Download Video (Without text) - DCM](https://dcm.kia.com/product/contents/contentsForm.do?menuType=detail\&categoryId=0b01e2418024f0fe\&rObjectId=0901e2418024f76a)
 
 {% embed url="https://www.youtube.com/shorts/09pbX0sjmcA" %}
 
@@ -91,7 +95,8 @@ Trust in Every Move.
 {% tab title="Episode 04" %}
 ### Episode 04: Stay in Touch
 
-[Download Video - DCM](https://dcm.kia.com/product/contents/contentsForm.do?menuType=detail\&categoryId=0b01e2418024f0fe\&rObjectId=0901e2418024f726)
+* [Download Video - DCM](https://dcm.kia.com/product/contents/contentsForm.do?menuType=detail\&categoryId=0b01e2418024f0fe\&rObjectId=0901e2418024f726)
+* [Download Video (Without text) - DCM](https://dcm.kia.com/product/contents/contentsForm.do?menuType=detail\&categoryId=0b01e2418024f0fe\&rObjectId=0901e2418024f76b)
 
 {% embed url="https://www.youtube.com/shorts/gpvFP0kdcYc" %}
 
