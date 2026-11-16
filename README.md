@@ -30,7 +30,7 @@ layout:
 
 # Welcome
 
-#### Take a look at Kia Owners social media content and guidelines at a glance.
+#### Take a look at our ownership marketing content and guidelines at a glance.
 
 We have **content examples, assets, copy** and **production guidelines** for each social media channel already made for you.\
 Select the content of your choice to download and adapt the content as needed to fit your local context.

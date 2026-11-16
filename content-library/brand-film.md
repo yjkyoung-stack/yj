@@ -116,6 +116,6 @@ Trust in Every Move.
 * **Usage Rights & Restrictions**
   * **Territory:** Worldwide
   * **Media:** All digital media and platforms, including social media channels, websites, and in-store digital displays of Kia
-  * **Usage Rights:** Content may be published, edited, reposted during the usage period. (Editing is not permitted for the Brand Film.)
+  * **Usage Rights:** Content may be published, edited, reposted during the usage period.
   * **Paid Media:** Paid advertising on digital platforms, including Meta and YouTube, is permitted for up to 3 months from the date each individual content is first published, regardless of platform.
   * **Archival Rights:** Upon expiration of the usage period, previously published content may remain visible on the relevant channels without being hidden or deleted.
