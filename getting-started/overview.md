@@ -34,20 +34,7 @@ Please follow the instructions below to request access and permission.
 
 <table><thead><tr><th width="199.9423828125">Channel</th><th>Link</th></tr></thead><tbody><tr><td>Instagram</td><td><a href="https://www.instagram.com/kiaownership/">https://www.instagram.com/kiaownership/</a></td></tr><tr><td>X</td><td><a href="https://x.com/KiaOwnership">https://x.com/KiaOwnership</a></td></tr></tbody></table>
 
-#### Facebook
 
-* Unlike Instagram and X, Facebook requires a separate access request.
-
-> 1. Have your Facebook account ready.
-> 2. Send your Facebook email address and name to the email address below.
->    * Email address for access request: [Z404122@kia.com](mailto:Z404122@kia.com)
-> 3. Your access request will be approved by KHQ after validating the information.
-> 4. Once approved, you will receive an invite in the Facebook email address you entered. (Email and Facebook app notification)
-> 5. Go to Facebook and accept the invite to access the content.
-
-{% hint style="warning" %}
-Please refrain from editing any content without prior consent.
-{% endhint %}
 
 
 
